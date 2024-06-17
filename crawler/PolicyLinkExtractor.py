@@ -1,6 +1,6 @@
 # This script processes Korean websites to extract home page and internal links.
 # 
-# CHANGES AND IMPROVEMENTS:
+# CHANGES AND IMPROVEMENTS (v 2.0):
 # 1. Recursive Depth Limiting:
 #    - Introduced a `max_depth` parameter in `recursive_extract` function to limit recursion depth and avoid infinite loops.
 # 2. Session Management:
