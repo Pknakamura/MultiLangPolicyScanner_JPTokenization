@@ -173,29 +173,6 @@ def get_remaining_domains(country_code):
     return remaining_websites
 
 if __name__ == "__main__":
-    # db = TinyDB('websites_by_language.json')
-    # websites_table = db.table('websites')
-    # Website = Query()
-    
-    # korean_websites = websites_table.search(Website.language == "ko")
-    # chinese_websites = websites_table.search(Website.language == "zh-cn")
-    # mandarin_websites = websites_table.search(Website.language == "zh")
-    # english_websites = websites_table.search(Website.language == "en")
-
-    # # websites_to_process = korean_websites + chinese_websites + mandarin_websites + english_websites
-    # print(f"Total (ko) websites to process: {len(korean_websites)}")
-
-    # websites_to_process = korean_websites[:100]
-    # websites_to_process = [website['url'] for website in websites_to_process]
-    # print(websites_to_process)
-
-    # policy_links_table = db.table('policy_links')
-    # existing_policy_links = policy_links_table.all()
-    # existing_policy_links = [policy_link['domain'] for policy_link in existing_policy_links]
-    # print(f"Number of existing policy links domains: {len(existing_policy_links)}")
-    # websites_to_process = [website for website in websites_to_process if website not in existing_policy_links]
-
-    # print(f"Remaining websites to process: {len(websites_to_process)}")
 
     ko_websites_to_process = get_remaining_domains("ko")
     # chinese_websites_to_process = get_remaining_domains("zh-cn")
