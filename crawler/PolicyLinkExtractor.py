@@ -175,12 +175,14 @@ def get_remaining_domains(country_code):
 if __name__ == "__main__":
 
     ko_websites_to_process = get_remaining_domains("ko")
+    process_domains(ko_websites_to_process, "Korea")
+
     # chinese_websites_to_process = get_remaining_domains("zh-cn")
     # mandarin_websites_to_process = get_remaining_domains("zh")
     # chinese_mandarin_websites_to_process = chinese_websites_to_process + mandarin_websites_to_process
 
     # japanese_websites_to_process = get_remaining_domains("ja")
+    # process_domains(japanese_websites_to_process, "Japan")
 
 
 
-    process_domains(ko_websites_to_process, "Korea")
