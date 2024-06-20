@@ -35,7 +35,7 @@ def get_random_user_agent():
     ]
     return random.choice(user_agents)
 
-def extract_home_page_links(url):
+def extract_home_page_links(url, domain, country):
     headers = {'User-Agent': get_random_user_agent()}
     try:
         response = requests.get(url, timeout=5, headers=headers)
@@ -51,10 +51,21 @@ def extract_home_page_links(url):
         return list(links)
     
     except requests.RequestException as e:
-        print(f"Error accessing {url}: {e}")
+        # write into error logger file for that country
+        if country == "Korea":
+            with open("error_logging/korea_error_log.txt", "a") as f:
+                f.write(f"{domain}: {e}\n")
+        elif country == "China":
+            with open("error_logging/china_error_log.txt", "a") as f:
+                f.write(f"{domain}: {e}\n")
+        elif country == "Japan":
+            with open("error_logging/japan_error_log.txt", "a") as f:
+                f.write(f"{domain}: {e}\n")
+        
+        print(f"Error accessing landing page & home links {url}: {e}")
         return []
 
-def extract_links(url):
+def extract_links(url, original_domain, country):
     headers = {'User-Agent': get_random_user_agent()}
     try:
         response = requests.get(url, timeout=5, headers=headers)
@@ -69,25 +80,36 @@ def extract_links(url):
         return links
     
     except requests.RequestException as e:
-        print(f"Error accessing {url}: {e}")
+        # log error into an erro logger file with domain name, country, and error message. if file not exist, create a new file for that country
+        if country == "Korea":
+            with open("error_logging/korea_error_log.txt", "a") as f:
+                f.write(f"{original_domain}: {e}\n")
+        elif country == "China":
+            with open("error_logging/china_error_log.txt", "a") as f:
+                f.write(f"{original_domain}: {e}\n")
+        elif country == "Japan":
+            with open("error_logging/japan_error_log.txt", "a") as f:
+                f.write(f"{original_domain}: {e}\n")
+        # print(f"Error accessing {url}: {e}")
         return []
 
-def recursive_extract(url, original_domain, max_depth=3, current_depth=0, start_time=None):
+def recursive_extract(url, original_domain, country, max_depth=3, current_depth=0, start_time=None):
     if current_depth > max_depth:
         return
     if start_time and datetime.now() - start_time > timedelta(minutes=3):
-        print(f"Stopping recursion for {original_domain} after 5 minutes")
+        print(f"Stopping recursion for {original_domain} -> {url} after 3 minutes at depth {current_depth}")
         return
     if url not in visited_links:
         visited_links.add(url)
         if original_domain in url:
-            print(f"Extracting links from: {url}")
-            links = extract_links(url)
+
+            # print(f"Extracting links from: {url}")
+            links = extract_links(url, original_domain, country)
             for link in links:
                 parsed_link = urlparse(link)
                 if parsed_link.netloc.endswith(original_domain):
                     all_links.append(link)
-                    recursive_extract(link, original_domain, max_depth, current_depth + 1, start_time)
+                    recursive_extract(link, original_domain, country, max_depth, current_depth + 1, start_time)
                     time.sleep(1)
 
 def process_domains(domains, country, max_depth=3):
@@ -98,7 +120,18 @@ def process_domains(domains, country, max_depth=3):
             try:
                 future.result()
             except Exception as e:
-                print(f"Error processing domain {domain}: {e}")
+                # log error into an erro logger file with domain name, country, and error message. if file not exist, create a new file for that country
+                if country == "Korea":
+                    with open("error_logging/korea_error_log.txt", "a") as f:
+                        f.write(f"{domain}: {e}\n")
+                elif country == "China":
+                    with open("error_logging/china_error_log.txt", "a") as f:
+                        f.write(f"{domain}: {e}\n")
+                elif country == "Japan":
+                    with open("error_logging/japan_error_log.txt", "a") as f:
+                        f.write(f"{domain}: {e}\n")
+
+                # print(f"Error processing domain {domain}: {e}")
 
 def process_single_domain(domain, country, max_depth):
     global visited_links, all_links
@@ -108,18 +141,38 @@ def process_single_domain(domain, country, max_depth):
     start_time = datetime.now()
     try:
         print(f"Processing domain: {domain}")
-        recursive_extract(f"https://{domain}", domain, max_depth, start_time=start_time)
-        home_links = extract_home_page_links(f"https://{domain}")
+        recursive_extract(f"https://{domain}", domain, country, max_depth, start_time=start_time)
+        home_links = extract_home_page_links(f"https://{domain}", domain, country)
     except Exception as e:
         print(f"Error processing domain https://{domain}: {e}")
+        if country == "Korea":
+            with open("error_logging/korea_error_log.txt", "a") as f:
+                f.write(f"{domain}: {e}\n")
+        elif country == "China":
+            with open("error_logging/china_error_log.txt", "a") as f:
+                f.write(f"{domain}: {e}\n")
+        elif country == "Japan":
+            with open("error_logging/japan_error_log.txt", "a") as f:
+                f.write(f"{domain}: {e}\n")
         try:
-            recursive_extract(f"http://{domain}", domain, max_depth, start_time=start_time)
-            home_links = extract_home_page_links(f"http://{domain}")
+            recursive_extract(f"http://{domain}", domain, country, max_depth, start_time=start_time)
+            home_links = extract_home_page_links(f"http://{domain}", domain, country)
         except Exception as e:
             print(f"Error processing domain http://{domain} with http: {e}")
+            if country == "Korea":
+                with open("error_logging/korea_error_log.txt", "a") as f:
+                    f.write(f"{domain}: {e}\n")
+            elif country == "China":
+                with open("error_logging/china_error_log.txt", "a") as f:
+                    f.write(f"{domain}: {e}\n")
+            elif country == "Japan":
+                with open("error_logging/japan_error_log.txt", "a") as f:
+                    f.write(f"{domain}: {e}\n")
 
     db = TinyDB('websites_by_language.json')
     table = db.table('policy_links')
+
+
     timeprocessed = datetime.now().isoformat()
     home_links = list(set(home_links))
     all_links = list(set(all_links))
@@ -134,6 +187,8 @@ def process_single_domain(domain, country, max_depth):
 
 def get_remaining_domains(country_code):
     db = TinyDB('websites_by_language.json')
+
+
     websites_table = db.table('websites')
     Website = Query()
 
@@ -174,15 +229,17 @@ def get_remaining_domains(country_code):
 
 if __name__ == "__main__":
 
-    ko_websites_to_process = get_remaining_domains("ko")
-    process_domains(ko_websites_to_process, "Korea")
+    # ko_websites_to_process = get_remaining_domains("ko")
+    # process_domains(ko_websites_to_process, "Korea")
+
+
+    japanese_websites_to_process = get_remaining_domains("ja")
+    process_domains(japanese_websites_to_process, "Japan")
+
 
     # chinese_websites_to_process = get_remaining_domains("zh-cn")
     # mandarin_websites_to_process = get_remaining_domains("zh")
     # chinese_mandarin_websites_to_process = chinese_websites_to_process + mandarin_websites_to_process
-
-    # japanese_websites_to_process = get_remaining_domains("ja")
-    # process_domains(japanese_websites_to_process, "Japan")
 
 
 
