@@ -18,6 +18,7 @@ from urllib.parse import urlparse, urljoin
 from tinydb import TinyDB, Query
 from datetime import datetime, timedelta
 from concurrent.futures import ThreadPoolExecutor, as_completed
+import pandas as pd
 
 keywords_primary = [
     'privac', 'poli', 'ethic', 'terms', 'servic', 'policy', 'data', 'safety',  # English
@@ -186,16 +187,24 @@ def process_single_domain(domain, country, max_depth):
     table.insert(data)
 
 def get_remaining_domains(country_code):
+
+    all_country_websites = []
     db = TinyDB('websites_by_language.json')
-
-
     websites_table = db.table('websites')
     Website = Query()
+    country_websites = websites_table.search(Website.language == country_code)
 
-    korean_websites = websites_table.search(Website.language == country_code)
+    if "zh" in country_code:
+        with open("top3K_chinese_mandarin_domains.txt", "r") as f:
+            chinese_mandarin_domains_to_process = f.readlines()
+            # remove the newline character
+            chinese_mandarin_domains_to_process = [domain.strip() for domain in chinese_mandarin_domains_to_process]
+            all_country_websites = chinese_mandarin_domains_to_process
+            # print(all_country_websites[:10])
 
-    all_korean_websites = [website['url'] for website in korean_websites]
-    print(f"Total {country_code} websites: {len(set(all_korean_websites))}")
+    else:
+        all_country_websites = [website['url'] for website in country_websites]
+        print(f"Total {country_code} websites: {len(set(all_country_websites))}")
 
     # websites_to_process = korean_websites[:100]
     # websites_to_process = [website['url'] for website in websites_to_process]
@@ -204,6 +213,8 @@ def get_remaining_domains(country_code):
     policy_links_table = db.table('policy_links')
     existing_policy_links = policy_links_table.all()
     # only korean domains which has policy_link['country'] == "Korea"
+
+
 
     if country_code == "ko":
         existing_policy_links = [policy_link['domain'] for policy_link in existing_policy_links if policy_link['country'] == "Korea"]
@@ -217,10 +228,11 @@ def get_remaining_domains(country_code):
     # existing_policy_links = [policy_link['domain'] for policy_link in existing_policy_links]
 
     print(f"Number of {country_code} domains in policy links table: {len(set(existing_policy_links))}")
+    # print(existing_policy_links[:10])
 
     remaining_websites = []
 
-    for each_website in all_korean_websites:
+    for each_website in all_country_websites:
         if each_website not in existing_policy_links:
             remaining_websites.append(each_website)
     print(f"Total remaining website {len(remaining_websites)}")
@@ -233,13 +245,11 @@ if __name__ == "__main__":
     # process_domains(ko_websites_to_process, "Korea")
 
 
-    japanese_websites_to_process = get_remaining_domains("ja")
-    process_domains(japanese_websites_to_process, "Japan")
+    # japanese_websites_to_process = get_remaining_domains("ja")
+    # process_domains(japanese_websites_to_process, "Japan")
 
-
-    # chinese_websites_to_process = get_remaining_domains("zh-cn")
-    # mandarin_websites_to_process = get_remaining_domains("zh")
-    # chinese_mandarin_websites_to_process = chinese_websites_to_process + mandarin_websites_to_process
-
-
+# 
+    chinese_mandarin_websites_to_process = get_remaining_domains("zh")
+    # print(len(chinese_mandarin_websites_to_process))
+    process_domains(chinese_mandarin_websites_to_process, "China")
 
