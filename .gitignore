@@ -1,2 +1,3 @@
 # ignore crawler/websites_by_language.json from being pushed
 crawler/websites_by_language.json
+policy_corpus/policies
