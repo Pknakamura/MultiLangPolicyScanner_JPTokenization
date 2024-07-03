@@ -13262,3 +13262,1520 @@ liandaomobi.com: HTTPSConnectionPool(host='liandaomobi.com', port=443): Read tim
 011pz.com: 
 liandaomobi.com: HTTPSConnectionPool(host='liandaomobi.com', port=443): Read timed out.
 tanquanshui.com: HTTPSConnectionPool(host='tanquanshui.com', port=443): Read timed out. (read timeout=5)
+ag-baccarat.net: 403 Client Error: Forbidden for url: https://ag-baccarat.net/
+ag-baccarat.net: 403 Client Error: Forbidden for url: https://ag-baccarat.net/
+tkr274.com: Extra data: line 1 column 254032286 (char 254032285)
+ag-baccarat.net: Extra data: line 1 column 254032286 (char 254032285)
+superbed.cn: HTTPSConnectionPool(host='www.superbed.cn', port=443): Read timed out. (read timeout=5)
+superbed.cn: HTTPSConnectionPool(host='www.superbed.cn', port=443): Read timed out. (read timeout=5)
+superbed.cn: Invalid control character at: line 1 column 254040488 (char 254040487)
+jscy56.com: Invalid control character at: line 1 column 254040488 (char 254040487)
+gdjh1688.com: Invalid control character at: line 1 column 254040488 (char 254040487)
+rlayy666.com: Invalid control character at: line 1 column 254040488 (char 254040487)
+hongxue168.com: Invalid control character at: line 1 column 254040488 (char 254040487)
+djdrcn.com: Invalid control character at: line 1 column 254040488 (char 254040487)
+sbitfinancial.com: Invalid control character at: line 1 column 254040488 (char 254040487)
+bddjn.com: Invalid control character at: line 1 column 254040488 (char 254040487)
+057939.com: HTTPSConnectionPool(host='057939.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000028822A60A10>, 'Connection to 057939.com timed out. (connect timeout=5)'))
+wzqdfs.com: Invalid control character at: line 1 column 254040488 (char 254040487)
+057939.com: HTTPSConnectionPool(host='057939.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000028814FC1610>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+hrcass.com: Invalid control character at: line 1 column 254040488 (char 254040487)
+057939.com: Invalid control character at: line 1 column 254040488 (char 254040487)
+girnjell.com: Invalid control character at: line 1 column 254040488 (char 254040487)
+dhzhongye.com: Invalid control character at: line 1 column 254040488 (char 254040487)
+sznylab.com: Invalid control character at: line 1 column 254040488 (char 254040487)
+guanganbw.com: Invalid control character at: line 1 column 254040488 (char 254040487)
+sgfqxtscbz.com: Invalid control character at: line 1 column 254040488 (char 254040487)
+hgc12360.com: HTTPSConnectionPool(host='hgc12360.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000287831933D0>, 'Connection to hgc12360.com timed out. (connect timeout=5)'))
+hgc12360.com: HTTPSConnectionPool(host='hgc12360.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000288132B4410>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+hgc12360.com: Invalid control character at: line 1 column 254040488 (char 254040487)
+yabo188.org: HTTPSConnectionPool(host='yabo188.org', port=443): Read timed out. (read timeout=5)
+kaiyubet.com: HTTPSConnectionPool(host='kaiyubet.com', port=443): Read timed out. (read timeout=5)
+yabo188.org: HTTPSConnectionPool(host='yabo188.org', port=443): Read timed out. (read timeout=5)
+buerlong.com: Invalid control character at: line 1 column 254040488 (char 254040487)
+kaiyubet.com: HTTPSConnectionPool(host='kaiyubet.com', port=443): Read timed out. (read timeout=5)
+vape-manufactory.com: Invalid control character at: line 1 column 254040488 (char 254040487)
+yabo188.org: Invalid control character at: line 1 column 254040488 (char 254040487)
+kaiyubet.com: HTTPSConnectionPool(host='kaiyubet.com', port=443): Read timed out. (read timeout=5)
+kaiyubet.com: Invalid control character at: line 1 column 254040488 (char 254040487)
+zgxsjfs.com: Invalid control character at: line 1 column 254040488 (char 254040487)
+msummall.com: Invalid control character at: line 1 column 254040488 (char 254040487)
+shruitech.com: Invalid control character at: line 1 column 254040488 (char 254040487)
+fh3tt.com: Invalid control character at: line 1 column 254040488 (char 254040487)
+bqg122.com: Invalid control character at: line 1 column 254040488 (char 254040487)
+ai-smartlife.com: Invalid control character at: line 1 column 254040488 (char 254040487)
+longmez.com: Invalid control character at: line 1 column 254040488 (char 254040487)
+newjf-pak.com: Invalid control character at: line 1 column 254040488 (char 254040487)
+xhm800.com: Invalid control character at: line 1 column 254040488 (char 254040487)
+szlcable.com: Invalid control character at: line 1 column 254040488 (char 254040487)
+yanglequ.com: Invalid control character at: line 1 column 254040488 (char 254040487)
+xhfenfa.com: Invalid control character at: line 1 column 254040488 (char 254040487)
+shuichanyz04.com: Invalid control character at: line 1 column 254040488 (char 254040487)
+sg-pe.com: Invalid control character at: line 1 column 254040488 (char 254040487)
+suonisi.com: Invalid control character at: line 1 column 254040488 (char 254040487)
+chuantoushuiwujiangeshuisi.com: Invalid control character at: line 1 column 254040488 (char 254040487)
+ag-baccarat.net: 403 Client Error: Forbidden for url: https://ag-baccarat.net/
+ag-baccarat.net: 403 Client Error: Forbidden for url: https://ag-baccarat.net/
+vape-manufactory.com: HTTPSConnectionPool(host='www.vape-manufactory.com', port=443): Read timed out. (read timeout=5)
+bddjn.com: Document with ID 7157 already exists
+057939.com: HTTPSConnectionPool(host='057939.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000230EF14FA90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+057939.com: HTTPSConnectionPool(host='057939.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000230EF33ED90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+buerlong.com: Document with ID 7160 already exists
+hgc12360.com: HTTPSConnectionPool(host='hgc12360.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002314AB26150>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+hrcass.com: Document with ID 7164 already exists
+hgc12360.com: HTTPSConnectionPool(host='hgc12360.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002314B990AD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+hgc12360.com: Document with ID 7165 already exists
+newjf-pak.com: Document with ID 7168 already exists
+leyutiyu.xyz: Document with ID 7184 already exists
+xmjxhb.com: HTTPSConnectionPool(host='xmjxhb.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000231A283D490>, 'Connection to xmjxhb.com timed out. (connect timeout=5)'))
+xmjxhb.com: HTTPSConnectionPool(host='xmjxhb.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000231A2359190>, 'Connection to xmjxhb.com timed out. (connect timeout=5)'))
+xmjxhb.com: HTTPSConnectionPool(host='xmjxhb.com', port=443): Max retries exceeded with url: /introduction.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002319FD06250>, 'Connection to xmjxhb.com timed out. (connect timeout=5)'))
+xmjxhb.com: HTTPSConnectionPool(host='xmjxhb.com', port=443): Max retries exceeded with url: /product/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000231A2458AD0>, 'Connection to xmjxhb.com timed out. (connect timeout=5)'))
+xmjxhb.com: HTTPSConnectionPool(host='xmjxhb.com', port=443): Max retries exceeded with url: /contact.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000231D6F6EBD0>, 'Connection to xmjxhb.com timed out. (connect timeout=5)'))
+hengkunwangluo.com: Document with ID 7196 already exists
+xmjxhb.com: HTTPSConnectionPool(host='xmjxhb.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000231C76EDD50>, 'Connection to xmjxhb.com timed out. (connect timeout=5)'))
+nicksana.com: HTTPSConnectionPool(host='nicksana.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'nicksana.com'. (_ssl.c:1006)")))
+nicksana.com: HTTPSConnectionPool(host='nicksana.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'nicksana.com'. (_ssl.c:1006)")))
+51syhz.com: Document with ID 7211 already exists
+dongfangxihua.com: HTTPSConnectionPool(host='dongfangxihua.com', port=443): Read timed out. (read timeout=5)
+zuhaowan.com: HTTPSConnectionPool(host='zuhaowan.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))
+007xbw.com: 404 Client Error: Not Found for url: https://007xbw.com/
+007xbw.com: 404 Client Error: Not Found for url: https://007xbw.com/
+onemeet521.com: HTTPSConnectionPool(host='onemeet521.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000231C28CA490>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+onemeet521.com: HTTPSConnectionPool(host='onemeet521.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000231A38B5810>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+cxqingjie.com: Document with ID 7222 already exists
+chonghaomc.com: HTTPSConnectionPool(host='chonghaomc.com', port=443): Read timed out. (read timeout=5)
+chonghaomc.com: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+sfjzfw.com: Document with ID 7277 already exists
+szshuafu.com: Document with ID 7286 already exists
+feidee.com: HTTPConnectionPool(host='bangzhu.feidee.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000023252592DD0>: Failed to resolve 'bangzhu.feidee.com' ([Errno 11001] getaddrinfo failed)"))
+chcmbt.com: HTTPSConnectionPool(host='chcmbt.com', port=443): Read timed out. (read timeout=5)
+hnwaner.com: HTTPSConnectionPool(host='hnwaner.com', port=443): Read timed out. (read timeout=5)
+bjxinzhan.com: HTTPSConnectionPool(host='bjxinzhan.com', port=443): Max retries exceeded with url: /contact.html (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002322E014850>: Failed to establish a new connection: [WinError 10065] A socket operation was attempted to an unreachable host'))
+69tang.org: HTTPSConnectionPool(host='www.69tang.org', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000023250628ED0>, 'Connection to www.69tang.org timed out. (connect timeout=5)'))
+bjxinzhan.com: HTTPSConnectionPool(host='bjxinzhan.com', port=443): Max retries exceeded with url: /information.html (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000232526BDDD0>: Failed to resolve 'bjxinzhan.com' ([Errno 11001] getaddrinfo failed)"))
+69tang.org: HTTPSConnectionPool(host='www.69tang.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000232526BD3D0>: Failed to resolve 'www.69tang.org' ([Errno 11001] getaddrinfo failed)"))
+bjxinzhan.com: HTTPSConnectionPool(host='bjxinzhan.com', port=443): Max retries exceeded with url: /message.html (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002325396A1D0>: Failed to resolve 'bjxinzhan.com' ([Errno 11001] getaddrinfo failed)"))
+69tang.org: HTTPSConnectionPool(host='www.69tang.org', port=443): Max retries exceeded with url: /latest-updates/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023253331450>: Failed to resolve 'www.69tang.org' ([Errno 11001] getaddrinfo failed)"))
+shangchaokj.com: HTTPSConnectionPool(host='shangchaokj.com', port=443): Max retries exceeded with url: /contact.html (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000023253331B10>: Failed to establish a new connection: [WinError 10065] A socket operation was attempted to an unreachable host'))
+bjxinzhan.com: HTTPSConnectionPool(host='bjxinzhan.com', port=443): Max retries exceeded with url: /product/1.html (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000232526BEF90>: Failed to resolve 'bjxinzhan.com' ([Errno 11001] getaddrinfo failed)"))
+xinhuihang99.com: HTTPSConnectionPool(host='xinhuihang99.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002322E020710>: Failed to resolve 'xinhuihang99.com' ([Errno 11001] getaddrinfo failed)"))
+xinhuihang99.com: HTTPSConnectionPool(host='xinhuihang99.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002324FE69250>: Failed to resolve 'xinhuihang99.com' ([Errno 11001] getaddrinfo failed)"))
+69tang.org: HTTPSConnectionPool(host='www.69tang.org', port=443): Max retries exceeded with url: /top-rated/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002324FE6B390>: Failed to resolve 'www.69tang.org' ([Errno 11001] getaddrinfo failed)"))
+digitaling.com: HTTPSConnectionPool(host='digitaling.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023253331690>: Failed to resolve 'digitaling.com' ([Errno 11001] getaddrinfo failed)"))
+hnwaner.com: HTTPSConnectionPool(host='hnwaner.com', port=443): Max retries exceeded with url: /contact.html (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002325396A490>: Failed to establish a new connection: [WinError 10065] A socket operation was attempted to an unreachable host'))
+69tang.org: HTTPSConnectionPool(host='www.69tang.org', port=443): Max retries exceeded with url: /most-popular/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002325284BB50>: Failed to resolve 'www.69tang.org' ([Errno 11001] getaddrinfo failed)"))
+bjxinzhan.com: HTTPSConnectionPool(host='bjxinzhan.com', port=443): Max retries exceeded with url: /product/2.html (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002325284BD90>: Failed to resolve 'bjxinzhan.com' ([Errno 11001] getaddrinfo failed)"))
+shangchaokj.com: HTTPSConnectionPool(host='shangchaokj.com', port=443): Max retries exceeded with url: /information.html (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002325284ADD0>: Failed to resolve 'shangchaokj.com' ([Errno 11001] getaddrinfo failed)"))
+hnwaner.com: HTTPSConnectionPool(host='hnwaner.com', port=443): Max retries exceeded with url: /information.html (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002329279EAD0>: Failed to resolve 'hnwaner.com' ([Errno 11001] getaddrinfo failed)"))
+bjxinzhan.com: HTTPSConnectionPool(host='bjxinzhan.com', port=443): Max retries exceeded with url: /product/3.html (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002329279F1D0>: Failed to resolve 'bjxinzhan.com' ([Errno 11001] getaddrinfo failed)"))
+shangchaokj.com: HTTPSConnectionPool(host='shangchaokj.com', port=443): Max retries exceeded with url: /message.html (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002329279E5D0>: Failed to resolve 'shangchaokj.com' ([Errno 11001] getaddrinfo failed)"))
+69tang.org: HTTPSConnectionPool(host='www.69tang.org', port=443): Max retries exceeded with url: /albums/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002329279D550>: Failed to resolve 'www.69tang.org' ([Errno 11001] getaddrinfo failed)"))
+digitaling.com: Document with ID 7305 already exists
+bjxinzhan.com: HTTPSConnectionPool(host='bjxinzhan.com', port=443): Max retries exceeded with url: /product/4.html (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002324E48F410>: Failed to resolve 'bjxinzhan.com' ([Errno 11001] getaddrinfo failed)"))
+hnwaner.com: HTTPSConnectionPool(host='hnwaner.com', port=443): Max retries exceeded with url: /message.html (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002324E48EF50>: Failed to resolve 'hnwaner.com' ([Errno 11001] getaddrinfo failed)"))
+shangchaokj.com: HTTPSConnectionPool(host='shangchaokj.com', port=443): Max retries exceeded with url: /introduction.html (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002324E48EB50>: Failed to resolve 'shangchaokj.com' ([Errno 11001] getaddrinfo failed)"))
+69tang.org: HTTPSConnectionPool(host='www.69tang.org', port=443): Max retries exceeded with url: /categories/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002324E48F890>: Failed to resolve 'www.69tang.org' ([Errno 11001] getaddrinfo failed)"))
+biqu789.com: HTTPSConnectionPool(host='biqu789.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002324E4C3950>: Failed to resolve 'biqu789.com' ([Errno 11001] getaddrinfo failed)"))
+silioneco.com: HTTPSConnectionPool(host='silioneco.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002324E4C3590>: Failed to resolve 'silioneco.com' ([Errno 11001] getaddrinfo failed)"))
+biqu789.com: HTTPSConnectionPool(host='biqu789.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002324E4CB350>: Failed to resolve 'biqu789.com' ([Errno 11001] getaddrinfo failed)"))
+silioneco.com: HTTPSConnectionPool(host='silioneco.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002324E4CB6D0>: Failed to resolve 'silioneco.com' ([Errno 11001] getaddrinfo failed)"))
+bjxinzhan.com: HTTPSConnectionPool(host='bjxinzhan.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002327589BC10>: Failed to resolve 'bjxinzhan.com' ([Errno 11001] getaddrinfo failed)"))
+shangchaokj.com: HTTPSConnectionPool(host='shangchaokj.com', port=443): Max retries exceeded with url: /product/2.html (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002327589BF50>: Failed to resolve 'shangchaokj.com' ([Errno 11001] getaddrinfo failed)"))
+69tang.org: HTTPSConnectionPool(host='www.69tang.org', port=443): Max retries exceeded with url: /sites/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023275898150>: Failed to resolve 'www.69tang.org' ([Errno 11001] getaddrinfo failed)"))
+qianlongjie.com: HTTPSConnectionPool(host='qianlongjie.com', port=443): Max retries exceeded with url: /contact.html (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002327589ABD0>: Failed to resolve 'qianlongjie.com' ([Errno 11001] getaddrinfo failed)"))
+hnwaner.com: HTTPSConnectionPool(host='hnwaner.com', port=443): Max retries exceeded with url: /product/2.html (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000232AAC10490>: Failed to resolve 'hnwaner.com' ([Errno 11001] getaddrinfo failed)"))
+qianlongjie.com: HTTPSConnectionPool(host='qianlongjie.com', port=443): Max retries exceeded with url: /information.html (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002329B1BD450>: Failed to resolve 'qianlongjie.com' ([Errno 11001] getaddrinfo failed)"))
+bjxinzhan.com: HTTPConnectionPool(host='www.bjxinzhan.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x00000232AAC10E50>: Failed to resolve 'www.bjxinzhan.com' ([Errno 11001] getaddrinfo failed)"))
+shangchaokj.com: HTTPSConnectionPool(host='shangchaokj.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002329B1BDB90>: Failed to resolve 'shangchaokj.com' ([Errno 11001] getaddrinfo failed)"))
+69tang.org: HTTPSConnectionPool(host='www.69tang.org', port=443): Max retries exceeded with url: /models/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002329AEEE050>: Failed to resolve 'www.69tang.org' ([Errno 11001] getaddrinfo failed)"))
+hnwaner.com: HTTPSConnectionPool(host='hnwaner.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002329AEEEE10>: Failed to resolve 'hnwaner.com' ([Errno 11001] getaddrinfo failed)"))
+shangchaokj.com: HTTPConnectionPool(host='www.shangchaokj.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x00000232875B7FD0>: Failed to resolve 'www.shangchaokj.com' ([Errno 11001] getaddrinfo failed)"))
+hnwaner.com: HTTPConnectionPool(host='www.hnwaner.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x00000232875B6650>: Failed to resolve 'www.hnwaner.com' ([Errno 11001] getaddrinfo failed)"))
+69tang.org: HTTPSConnectionPool(host='www.69tang.org', port=443): Max retries exceeded with url: /playlists/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000232875B5090>: Failed to resolve 'www.69tang.org' ([Errno 11001] getaddrinfo failed)"))
+iyoubest.com: HTTPSConnectionPool(host='iyoubest.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000232875B4890>: Failed to resolve 'iyoubest.com' ([Errno 11001] getaddrinfo failed)"))
+qianlongjie.com: HTTPSConnectionPool(host='qianlongjie.com', port=443): Max retries exceeded with url: /message.html (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000232875B4150>: Failed to resolve 'qianlongjie.com' ([Errno 11001] getaddrinfo failed)"))
+bjxinzhan.com: HTTPSConnectionPool(host='bjxinzhan.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000232875AFD10>: Failed to resolve 'bjxinzhan.com' ([Errno 11001] getaddrinfo failed)"))
+iyoubest.com: HTTPSConnectionPool(host='iyoubest.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000232875B7150>: Failed to resolve 'iyoubest.com' ([Errno 11001] getaddrinfo failed)"))
+zhoumozhong.com: HTTPSConnectionPool(host='zhoumozhong.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000232AA8CE610>: Failed to resolve 'zhoumozhong.com' ([Errno 11001] getaddrinfo failed)"))
+zhoumozhong.com: HTTPSConnectionPool(host='zhoumozhong.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000232875ACB10>: Failed to resolve 'zhoumozhong.com' ([Errno 11001] getaddrinfo failed)"))
+bjxinzhan.com: HTTPConnectionPool(host='www.bjxinzhan.com', port=80): Max retries exceeded with url: /sitemap.xml (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000023286D03650>: Failed to resolve 'www.bjxinzhan.com' ([Errno 11001] getaddrinfo failed)"))
+shangchaokj.com: HTTPSConnectionPool(host='shangchaokj.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023286D031D0>: Failed to resolve 'shangchaokj.com' ([Errno 11001] getaddrinfo failed)"))
+qianlongjie.com: HTTPSConnectionPool(host='qianlongjie.com', port=443): Max retries exceeded with url: /product/54.html (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002328AB5B010>: Failed to resolve 'qianlongjie.com' ([Errno 11001] getaddrinfo failed)"))
+69tang.org: HTTPSConnectionPool(host='www.69tang.org', port=443): Max retries exceeded with url: /channels/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002328AB5AC10>: Failed to resolve 'www.69tang.org' ([Errno 11001] getaddrinfo failed)"))
+hnwaner.com: HTTPSConnectionPool(host='hnwaner.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002328AB59D10>: Failed to resolve 'hnwaner.com' ([Errno 11001] getaddrinfo failed)"))
+shangchaokj.com: HTTPConnectionPool(host='www.shangchaokj.com', port=80): Max retries exceeded with url: /sitemap.xml (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000023274393350>: Failed to resolve 'www.shangchaokj.com' ([Errno 11001] getaddrinfo failed)"))
+hnwaner.com: HTTPConnectionPool(host='www.hnwaner.com', port=80): Max retries exceeded with url: /sitemap.xml (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000002329B311710>: Failed to resolve 'www.hnwaner.com' ([Errno 11001] getaddrinfo failed)"))
+bjxinzhan.com: HTTPSConnectionPool(host='bjxinzhan.com', port=443): Max retries exceeded with url: /product/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002329A1DA2D0>: Failed to resolve 'bjxinzhan.com' ([Errno 11001] getaddrinfo failed)"))
+69tang.org: HTTPSConnectionPool(host='www.69tang.org', port=443): Max retries exceeded with url: /members/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002329B2B86D0>: Failed to resolve 'www.69tang.org' ([Errno 11001] getaddrinfo failed)"))
+qianlongjie.com: HTTPSConnectionPool(host='qianlongjie.com', port=443): Max retries exceeded with url: /product/53.html (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002329B2B9090>: Failed to resolve 'qianlongjie.com' ([Errno 11001] getaddrinfo failed)"))
+xczs-ai.com: HTTPSConnectionPool(host='xczs-ai.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000232A9F3DA50>: Failed to resolve 'xczs-ai.com' ([Errno 11001] getaddrinfo failed)"))
+failed)"))
+tengshengyk.com: HTTPSConnectionPool(host='tengshengyk.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002329B07AE10>: Failed to resolve 'tengshengyk.com' ([Errno 11001] getaddrinfo failed)"))
+xczs-ai.com: HTTPSConnectionPool(host='xczs-ai.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002329B07B190>: Failed to resolve 'xczs-ai.com' ([Errno 11001] getaddrinfo failed)"))
+69tang.org: HTTPSConnectionPool(host='www.69tang.org', port=443): Max retries exceeded with url: /videos/16596/monstersofcock-veneramaxima/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002329890FBD0>: Failed to resolve 'www.69tang.org' ([Errno 11001] getaddrinfo failed)"))
+qianlongjie.com: HTTPSConnectionPool(host='qianlongjie.com', port=443): Max retries exceeded with url: /product/53.html (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023298998D50>: Failed to resolve 'qianlongjie.com' ([Errno 11001] getaddrinfo failed)"))
+bjxinzhan.com: HTTPSConnectionPool(host='bjxinzhan.com', port=443): Max retries exceeded with url: /contact.html (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023298998B90>: Failed to resolve 'bjxinzhan.com' ([Errno 11001] getaddrinfo failed)"))
+tengshengyk.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+shangchaokj.com: HTTPSConnectionPool(host='shangchaokj.com', port=443): Max retries exceeded with url: /product/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000232691F93D0>: Failed to resolve 'shangchaokj.com' ([Errno 11001] getaddrinfo failed)"))
+hnwaner.com: HTTPSConnectionPool(host='hnwaner.com', port=443): Max retries exceeded with url: /product/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000232691F8F10>: Failed to resolve 'hnwaner.com' ([Errno 11001] getaddrinfo failed)"))
+xczs-ai.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+301345.com: HTTPSConnectionPool(host='301345.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000232518E7710>: Failed to resolve '301345.com' ([Errno 11001] getaddrinfo failed)"))
+tanzaishao555.com: HTTPSConnectionPool(host='tanzaishao555.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000232518E7210>: Failed to resolve 'tanzaishao555.com' ([Errno 11001] getaddrinfo failed)"))
+301345.com: HTTPSConnectionPool(host='301345.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002322E0C3D10>: Failed to resolve '301345.com' ([Errno 11001] getaddrinfo failed)"))
+tanzaishao555.com: HTTPSConnectionPool(host='tanzaishao555.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002322E0C3D90>: Failed to resolve 'tanzaishao555.com' ([Errno 11001] getaddrinfo failed)"))
+301345.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+exceeded with url: /contact.html (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023299090990>: Failed to resolve 'shangchaokj.com' ([Errno 11001] getaddrinfo failed)"))
+hnwaner.com: HTTPSConnectionPool(host='hnwaner.com', port=443): Max retries exceeded with url: /contact.html (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023252F8B7D0>: Failed to resolve 'hnwaner.com' ([Errno 11001] getaddrinfo failed)"))
+tanzaishao555.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+bjxinzhan.com: HTTPSConnectionPool(host='bjxinzhan.com', port=443): Max retries exceeded with url: /information.html (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023252F89F90>: Failed to resolve 'bjxinzhan.com' ([Errno 11001] getaddrinfo failed)"))
+69tang.org: HTTPSConnectionPool(host='www.69tang.org', port=443): Max retries exceeded with url: /videos/16359/bb-ktv-720p/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023273592C50>: Failed to resolve 'www.69tang.org' ([Errno 11001] getaddrinfo failed)"))
+hzcty.com: HTTPSConnectionPool(host='hzcty.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023273591E50>: Failed to resolve 'hzcty.com' ([Errno 11001] getaddrinfo failed)"))
+daxiangyoumei.com: HTTPSConnectionPool(host='daxiangyoumei.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023273590810>: Failed to resolve 'daxiangyoumei.com' ([Errno 11001] getaddrinfo failed)"))
+hzcty.com: HTTPSConnectionPool(host='hzcty.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023277352A90>: Failed to resolve 'hzcty.com' ([Errno 11001] getaddrinfo failed)"))
+daxiangyoumei.com: HTTPSConnectionPool(host='daxiangyoumei.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023277350F10>: Failed to resolve 'daxiangyoumei.com' ([Errno 11001] getaddrinfo failed)"))
+69tang.org: HTTPSConnectionPool(host='www.69tang.org', port=443): Max retries exceeded with url: /videos/6421/720p68/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002329919C690>: Failed to resolve 'www.69tang.org' ([Errno 11001] getaddrinfo failed)"))
+hzcty.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+shangchaokj.com: HTTPSConnectionPool(host='shangchaokj.com', port=443): Max retries exceeded with url: /information.html (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023298E9EA90>: Failed to resolve 'shangchaokj.com' ([Errno 11001] getaddrinfo failed)"))
+bjxinzhan.com: HTTPSConnectionPool(host='bjxinzhan.com', port=443): Max retries exceeded with url: /message.html (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023298E9E310>: Failed to resolve 'bjxinzhan.com' ([Errno 11001] getaddrinfo failed)"))
+hnwaner.com: HTTPSConnectionPool(host='hnwaner.com', port=443): Max retries exceeded with url: /information.html (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023298E9DA50>: Failed to resolve 'hnwaner.com' ([Errno 11001] getaddrinfo failed)"))
+daxiangyoumei.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+sucaibar.com: HTTPSConnectionPool(host='sucaibar.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002324F1AD9D0>: Failed to resolve 'sucaibar.com' ([Errno 11001] getaddrinfo failed)"))
+zhihuishualian.com: HTTPSConnectionPool(host='zhihuishualian.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002324F1AEBD0>: Failed to resolve 'zhihuishualian.com' ([Errno 11001] getaddrinfo failed)"))
+sucaibar.com: HTTPSConnectionPool(host='sucaibar.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002324F1AC150>: Failed to resolve 'sucaibar.com' ([Errno 11001] getaddrinfo failed)"))
+zhihuishualian.com: HTTPSConnectionPool(host='zhihuishualian.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002329B07A610>: Failed to resolve 'zhihuishualian.com' ([Errno 11001] getaddrinfo failed)"))
+shangchaokj.com: HTTPSConnectionPool(host='shangchaokj.com', port=443): Max retries exceeded with url: /message.html (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023272E4B710>: Failed to resolve 'shangchaokj.com' ([Errno 11001] getaddrinfo failed)"))
+69tang.org: HTTPSConnectionPool(host='www.69tang.org', port=443): Max retries exceeded with url: /videos/5998/0459cf317ac37c127f4a0ed091c3b66a/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023299498E90>: Failed to resolve 'www.69tang.org' ([Errno 11001] getaddrinfo failed)"))
+sucaibar.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+zhihuishualian.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+l: /message.html (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000232731971D0>: Failed to resolve 'hnwaner.com' ([Errno 11001] getaddrinfo failed)"))
+oubadn.com: HTTPSConnectionPool(host='oubadn.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023273195390>: Failed to resolve 'oubadn.com' ([Errno 11001] getaddrinfo failed)"))
+jinyingedu1.com: HTTPSConnectionPool(host='jinyingedu1.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023277226D50>: Failed to resolve 'jinyingedu1.com' ([Errno 11001] getaddrinfo failed)"))
+oubadn.com: HTTPSConnectionPool(host='oubadn.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023277227DD0>: Failed to resolve 'oubadn.com' ([Errno 11001] getaddrinfo failed)"))
+jinyingedu1.com: HTTPSConnectionPool(host='jinyingedu1.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023277227A50>: Failed to resolve 'jinyingedu1.com' ([Errno 11001] getaddrinfo failed)"))
+shangchaokj.com: HTTPSConnectionPool(host='shangchaokj.com', port=443): Max retries exceeded with url: /introduction.html (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002328754B910>: Failed to resolve 'shangchaokj.com' ([Errno 11001] getaddrinfo failed)"))
+hnwaner.com: HTTPSConnectionPool(host='hnwaner.com', port=443): Max retries exceeded with url: /cdn-cgi/l/email-protection (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002328754ADD0>: Failed to resolve 'hnwaner.com' ([Errno 11001] getaddrinfo failed)"))
+jinyingedu1.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+69tang.org: HTTPSConnectionPool(host='www.69tang.org', port=443): Max retries exceeded with url: /videos/38441/1f22c4dc0a3f6bd788e7b56768015909/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002327258F6D0>: Failed to resolve 'www.69tang.org' ([Errno 11001] getaddrinfo failed)"))
+oubadn.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+679312.com: HTTPSConnectionPool(host='679312.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002327258DE90>: Failed to resolve '679312.com' ([Errno 11001] getaddrinfo failed)"))
+enlxcof.com: HTTPSConnectionPool(host='enlxcof.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023276E2EB10>: Failed to resolve 'enlxcof.com' ([Errno 11001] getaddrinfo failed)"))
+679312.com: HTTPSConnectionPool(host='679312.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023276E2CCD0>: Failed to resolve '679312.com' ([Errno 11001] getaddrinfo failed)"))
+enlxcof.com: HTTPSConnectionPool(host='enlxcof.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023298D72110>: Failed to resolve 'enlxcof.com' ([Errno 11001] getaddrinfo failed)"))
+679312.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+hnwaner.com: HTTPSConnectionPool(host='hnwaner.com', port=443): Max retries exceeded with url: /product/68.html (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002327268B490>: Failed to resolve 'hnwaner.com' ([Errno 11001] getaddrinfo failed)"))
+ailed)"))
+enlxcof.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+69tang.org: HTTPSConnectionPool(host='www.69tang.org', port=443): Max retries exceeded with url: /videos/32517/1249/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000232726894D0>: Failed to resolve 'www.69tang.org' ([Errno 11001] getaddrinfo failed)"))
+jizandi.com: HTTPSConnectionPool(host='jizandi.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023276F2EED0>: Failed to resolve 'jizandi.com' ([Errno 11001] getaddrinfo failed)"))
+yczd2018.com: HTTPSConnectionPool(host='yczd2018.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023276F2EAD0>: Failed to resolve 'yczd2018.com' ([Errno 11001] getaddrinfo failed)"))
+jizandi.com: HTTPSConnectionPool(host='jizandi.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023272F16DD0>: Failed to resolve 'jizandi.com' ([Errno 11001] getaddrinfo failed)"))
+yczd2018.com: HTTPSConnectionPool(host='yczd2018.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023272F15910>: Failed to resolve 'yczd2018.com' ([Errno 11001] getaddrinfo failed)"))
+hnwaner.com: HTTPSConnectionPool(host='hnwaner.com', port=443): Max retries exceeded with url: /product/68.html (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000232758AF5D0>: Failed to resolve 'hnwaner.com' ([Errno 11001] getaddrinfo failed)"))
+rrno 11001] getaddrinfo failed)"))
+yczd2018.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+haixiaofan.com: HTTPSConnectionPool(host='haixiaofan.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023276D31AD0>: Failed to resolve 'haixiaofan.com' ([Errno 11001] getaddrinfo failed)"))
+swwqjd.com: HTTPSConnectionPool(host='swwqjd.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023276D317D0>: Failed to resolve 'swwqjd.com' ([Errno 11001] getaddrinfo failed)"))
+jizandi.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+swwqjd.com: HTTPSConnectionPool(host='swwqjd.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000232758AC850>: Failed to resolve 'swwqjd.com' ([Errno 11001] getaddrinfo failed)"))
+failed)"))
+swwqjd.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+haixiaofan.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+hnwaner.com: HTTPSConnectionPool(host='hnwaner.com', port=443): Max retries exceeded with url: /product/67.html (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023276A2D350>: Failed to resolve 'hnwaner.com' ([Errno 11001] getaddrinfo failed)"))
+69tang.org: HTTPSConnectionPool(host='www.69tang.org', port=443): Max retries exceeded with url: /videos/37988/53738e895a033f67b84106daa1d10499/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023276A2CED0>: Failed to resolve 'www.69tang.org' ([Errno 11001] getaddrinfo failed)"))
+zhenqingshiguang.com: HTTPSConnectionPool(host='zhenqingshiguang.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023276A2F050>: Failed to resolve 'zhenqingshiguang.com' ([Errno 11001] getaddrinfo failed)"))
+sztnet.com: HTTPSConnectionPool(host='sztnet.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002328985B210>: Failed to resolve 'sztnet.com' ([Errno 11001] getaddrinfo failed)"))
+zhenqingshiguang.com: HTTPSConnectionPool(host='zhenqingshiguang.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000232898591D0>: Failed to resolve 'zhenqingshiguang.com' ([Errno 11001] getaddrinfo failed)"))
+sztnet.com: HTTPSConnectionPool(host='sztnet.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023276F2D5D0>: Failed to resolve 'sztnet.com' ([Errno 11001] getaddrinfo failed)"))
+zhenqingshiguang.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+69tang.org: HTTPSConnectionPool(host='www.69tang.org', port=443): Max retries exceeded with url: /videos/38852/553e02a3238b64fc7937c80b28f442cd/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023276829190>: Failed to resolve 'www.69tang.org' ([Errno 11001] getaddrinfo failed)"))
+sztnet.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+zhongguodbt.com: HTTPSConnectionPool(host='zhongguodbt.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002327682AA10>: Failed to resolve 'zhongguodbt.com' ([Errno 11001] getaddrinfo failed)"))
+dechengqj.com: HTTPSConnectionPool(host='dechengqj.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002324F886F50>: Failed to resolve 'dechengqj.com' ([Errno 11001] getaddrinfo failed)"))
+zhongguodbt.com: HTTPSConnectionPool(host='zhongguodbt.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002324F886350>: Failed to resolve 'zhongguodbt.com' ([Errno 11001] getaddrinfo failed)"))
+dechengqj.com: HTTPSConnectionPool(host='dechengqj.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000232898D1E50>: Failed to resolve 'dechengqj.com' ([Errno 11001] getaddrinfo failed)"))
+69tang.org: HTTPSConnectionPool(host='www.69tang.org', port=443): Max retries exceeded with url: /videos/8904/ffdf4d80885430e3147e6ccb6b327df3/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002325326BA10>: Failed to resolve 'www.69tang.org' ([Errno 11001] getaddrinfo failed)"))
+dlajxd.com: HTTPSConnectionPool(host='dlajxd.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023253268050>: Failed to resolve 'dlajxd.com' ([Errno 11001] getaddrinfo failed)"))
+cqfanya.com: HTTPSConnectionPool(host='cqfanya.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023298C612D0>: Failed to resolve 'cqfanya.com' ([Errno 11001] getaddrinfo failed)"))
+dechengqj.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+dlajxd.com: HTTPSConnectionPool(host='dlajxd.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023251750750>: Failed to resolve 'dlajxd.com' ([Errno 11001] getaddrinfo failed)"))
+cqfanya.com: HTTPSConnectionPool(host='cqfanya.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002329929CB90>: Failed to resolve 'cqfanya.com' ([Errno 11001] getaddrinfo failed)"))
+hnwaner.com: HTTPSConnectionPool(host='hnwaner.com', port=443): Max retries exceeded with url: /product/66.html (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000232A9F26FD0>: Failed to resolve 'hnwaner.com' ([Errno 11001] getaddrinfo failed)"))
+dlajxd.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+69tang.org: HTTPSConnectionPool(host='www.69tang.org', port=443): Max retries exceeded with url: /videos/5954/bb6ec21a30e605602f4000561d19194c/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000232A9F26450>: Failed to resolve 'www.69tang.org' ([Errno 11001] getaddrinfo failed)"))
+cqfanya.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+szysf168.com: HTTPSConnectionPool(host='szysf168.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000232A9F24E50>: Failed to resolve 'szysf168.com' ([Errno 11001] getaddrinfo failed)"))
+wudiy889.com: HTTPSConnectionPool(host='wudiy889.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000232A9F24050>: Failed to resolve 'wudiy889.com' ([Errno 11001] getaddrinfo failed)"))
+szysf168.com: HTTPSConnectionPool(host='szysf168.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023270923DD0>: Failed to resolve 'szysf168.com' ([Errno 11001] getaddrinfo failed)"))
+szysf168.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+hnwaner.com: HTTPSConnectionPool(host='hnwaner.com', port=443): Max retries exceeded with url: /product/65.html (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000232A9FF1610>: Failed to resolve 'hnwaner.com' ([Errno 11001] getaddrinfo failed)"))
+wudiy889.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+69tang.org: HTTPSConnectionPool(host='www.69tang.org', port=443): Max retries exceeded with url: /videos/3535/59c81b34a834fcdb2ff44d2ea577c275/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000232A9FF1A90>: Failed to resolve 'www.69tang.org' ([Errno 11001] getaddrinfo failed)"))
+pipsiam.com: HTTPSConnectionPool(host='pipsiam.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000232A9FF0510>: Failed to resolve 'pipsiam.com' ([Errno 11001] getaddrinfo failed)"))
+yiguochuanmei.com: HTTPSConnectionPool(host='yiguochuanmei.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000232A9FF1450>: Failed to resolve 'yiguochuanmei.com' ([Errno 11001] getaddrinfo failed)"))
+pipsiam.com: HTTPSConnectionPool(host='pipsiam.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002325412BD90>: Failed to resolve 'pipsiam.com' ([Errno 11001] getaddrinfo failed)"))
+yiguochuanmei.com: HTTPSConnectionPool(host='yiguochuanmei.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002325412B410>: Failed to resolve 'yiguochuanmei.com' ([Errno 11001] getaddrinfo failed)"))
+pipsiam.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+69tang.org: HTTPSConnectionPool(host='www.69tang.org', port=443): Max retries exceeded with url: /videos/35673/2214caaa05159b987990c2dcb691b8d0/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002326F62A890>: Failed to resolve 'www.69tang.org' ([Errno 11001] getaddrinfo failed)"))
+yiguochuanmei.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+hnwaner.com: HTTPSConnectionPool(host='hnwaner.com', port=443): Max retries exceeded with url: /product/65.html (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023273196D50>: Failed to resolve 'hnwaner.com' ([Errno 11001] getaddrinfo failed)"))
+wjiww.com: HTTPSConnectionPool(host='wjiww.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000232731960D0>: Failed to resolve 'wjiww.com' ([Errno 11001] getaddrinfo failed)"))
+longshengyj.com: HTTPSConnectionPool(host='longshengyj.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002324F1AD3D0>: Failed to resolve 'longshengyj.com' ([Errno 11001] getaddrinfo failed)"))
+wjiww.com: HTTPSConnectionPool(host='wjiww.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002324F1ADED0>: Failed to resolve 'wjiww.com' ([Errno 11001] getaddrinfo failed)"))
+longshengyj.com: HTTPSConnectionPool(host='longshengyj.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023270920D50>: Failed to resolve 'longshengyj.com' ([Errno 11001] getaddrinfo failed)"))
+wjiww.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+69tang.org: HTTPSConnectionPool(host='www.69tang.org', port=443): Max retries exceeded with url: /videos/38429/089b50ec4ec8c824c129049faab563e1/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023275A41550>: Failed to resolve 'www.69tang.org' ([Errno 11001] getaddrinfo failed)"))
+hnwaner.com: HTTPSConnectionPool(host='hnwaner.com', port=443): Max retries exceeded with url: /product/64.html (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023275A412D0>: Failed to resolve 'hnwaner.com' ([Errno 11001] getaddrinfo failed)"))
+longshengyj.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+qianduoduosk.com: HTTPSConnectionPool(host='qianduoduosk.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002327586FDD0>: Failed to resolve 'qianduoduosk.com' ([Errno 11001] getaddrinfo failed)"))
+lvyuanmuwu.com: HTTPSConnectionPool(host='lvyuanmuwu.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023275A42850>: Failed to resolve 'lvyuanmuwu.com' ([Errno 11001] getaddrinfo failed)"))
+lvyuanmuwu.com: HTTPSConnectionPool(host='lvyuanmuwu.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002327586C350>: Failed to resolve 'lvyuanmuwu.com' ([Errno 11001] getaddrinfo failed)"))
+qianduoduosk.com: HTTPSConnectionPool(host='qianduoduosk.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002327586C7D0>: Failed to resolve 'qianduoduosk.com' ([Errno 11001] getaddrinfo failed)"))
+qianduoduosk.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+hnwaner.com: HTTPSConnectionPool(host='hnwaner.com', port=443): Max retries exceeded with url: /product/64.html (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002327573D6D0>: Failed to resolve 'hnwaner.com' ([Errno 11001] getaddrinfo failed)"))
+lvyuanmuwu.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+69tang.org: HTTPSConnectionPool(host='www.69tang.org', port=443): Max retries exceeded with url: /videos/38216/46136199015bc7c872758842d4ef828d/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002327573DAD0>: Failed to resolve 'www.69tang.org' ([Errno 11001] getaddrinfo failed)"))
+jfhqjd.com: HTTPSConnectionPool(host='jfhqjd.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023275A6E790>: Failed to resolve 'jfhqjd.com' ([Errno 11001] getaddrinfo failed)"))
+jfhqjd.com: HTTPSConnectionPool(host='jfhqjd.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002326F629CD0>: Failed to resolve 'jfhqjd.com' ([Errno 11001] getaddrinfo failed)"))
+jfhqjd.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+ed with url: /videos/38411/44b9c41020134a5bd681b60bc21a8fa7/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023275A80850>: Failed to resolve 'www.69tang.org' ([Errno 11001] getaddrinfo failed)"))
+hnwaner.com: HTTPSConnectionPool(host='hnwaner.com', port=443): Max retries exceeded with url: /product/63.html (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023275A80C90>: Failed to resolve 'hnwaner.com' ([Errno 11001] getaddrinfo failed)"))
+lyyjjd.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+zhongyingnami.com: HTTPSConnectionPool(host='zhongyingnami.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023275A83F50>: Failed to resolve 'zhongyingnami.com' ([Errno 11001] getaddrinfo failed)"))
+kaisail.com: HTTPSConnectionPool(host='kaisail.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023275A80BD0>: Failed to resolve 'kaisail.com' ([Errno 11001] getaddrinfo failed)"))
+zhongyingnami.com: HTTPSConnectionPool(host='zhongyingnami.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023273195F10>: Failed to resolve 'zhongyingnami.com' ([Errno 11001] getaddrinfo failed)"))
+kaisail.com: HTTPSConnectionPool(host='kaisail.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023273195ED0>: Failed to resolve 'kaisail.com' ([Errno 11001] getaddrinfo failed)"))
+kaisail.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+69tang.org: HTTPSConnectionPool(host='www.69tang.org', port=443): Max retries exceeded with url: /videos/16004/0d79f705d96a6877c1fad00d9a169af4/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023276407650>: Failed to resolve 'www.69tang.org' ([Errno 11001] getaddrinfo failed)"))
+zhongyingnami.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+paotuin.com: HTTPSConnectionPool(host='paotuin.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002327444E0D0>: Failed to resolve 'paotuin.com' ([Errno 11001] getaddrinfo failed)"))
+wylsjy.com: HTTPSConnectionPool(host='wylsjy.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002327444E350>: Failed to resolve 'wylsjy.com' ([Errno 11001] getaddrinfo failed)"))
+wylsjy.com: HTTPSConnectionPool(host='wylsjy.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023276405A50>: Failed to resolve 'wylsjy.com' ([Errno 11001] getaddrinfo failed)"))
+)
+wylsjy.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+paotuin.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+zhsq163.com: HTTPSConnectionPool(host='zhsq163.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000232A9F26390>: Failed to resolve 'zhsq163.com' ([Errno 11001] getaddrinfo failed)"))
+sdwance.com: HTTPSConnectionPool(host='sdwance.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000232A9F24FD0>: Failed to resolve 'sdwance.com' ([Errno 11001] getaddrinfo failed)"))
+zhsq163.com: HTTPSConnectionPool(host='zhsq163.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002324E48FF50>: Failed to resolve 'zhsq163.com' ([Errno 11001] getaddrinfo failed)"))
+sdwance.com: HTTPSConnectionPool(host='sdwance.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002324E48C1D0>: Failed to resolve 'sdwance.com' ([Errno 11001] getaddrinfo failed)"))
+sdwance.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+zhsq163.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+ahzpnc.com: HTTPSConnectionPool(host='ahzpnc.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002327504DE50>: Failed to resolve 'ahzpnc.com' ([Errno 11001] getaddrinfo failed)"))
+hunanyujing.com: HTTPSConnectionPool(host='hunanyujing.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002327504DB10>: Failed to resolve 'hunanyujing.com' ([Errno 11001] getaddrinfo failed)"))
+ahzpnc.com: HTTPSConnectionPool(host='ahzpnc.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023299166D50>: Failed to resolve 'ahzpnc.com' ([Errno 11001] getaddrinfo failed)"))
+fo failed)"))
+hunanyujing.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+ahzpnc.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+scshifang.com: HTTPSConnectionPool(host='scshifang.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023252FD6B10>: Failed to resolve 'scshifang.com' ([Errno 11001] getaddrinfo failed)"))
+bj-bieke4s.com: HTTPSConnectionPool(host='bj-bieke4s.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023252FD7110>: Failed to resolve 'bj-bieke4s.com' ([Errno 11001] getaddrinfo failed)"))
+scshifang.com: HTTPSConnectionPool(host='scshifang.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023275A81E50>: Failed to resolve 'scshifang.com' ([Errno 11001] getaddrinfo failed)"))
+bj-bieke4s.com: HTTPSConnectionPool(host='bj-bieke4s.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023275A83050>: Failed to resolve 'bj-bieke4s.com' ([Errno 11001] getaddrinfo failed)"))
+bj-bieke4s.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+scshifang.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+saikunmy.com: HTTPSConnectionPool(host='saikunmy.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023274D4B510>: Failed to resolve 'saikunmy.com' ([Errno 11001] getaddrinfo failed)"))
+wxtingheng.com: HTTPSConnectionPool(host='wxtingheng.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023274D4BBD0>: Failed to resolve 'wxtingheng.com' ([Errno 11001] getaddrinfo failed)"))
+wxtingheng.com: HTTPSConnectionPool(host='wxtingheng.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000232999A22D0>: Failed to resolve 'wxtingheng.com' ([Errno 11001] getaddrinfo failed)"))
+wxtingheng.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+saikunmy.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+chiheng1688.com: HTTPSConnectionPool(host='chiheng1688.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002329777E6D0>: Failed to resolve 'chiheng1688.com' ([Errno 11001] getaddrinfo failed)"))
+gxkohler.com: HTTPSConnectionPool(host='gxkohler.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002329777CF90>: Failed to resolve 'gxkohler.com' ([Errno 11001] getaddrinfo failed)"))
+chiheng1688.com: HTTPSConnectionPool(host='chiheng1688.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002329A913390>: Failed to resolve 'chiheng1688.com' ([Errno 11001] getaddrinfo failed)"))
+gxkohler.com: HTTPSConnectionPool(host='gxkohler.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002329A911E90>: Failed to resolve 'gxkohler.com' ([Errno 11001] getaddrinfo failed)"))
+gxkohler.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+chiheng1688.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+cqshanshan.com: HTTPSConnectionPool(host='cqshanshan.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000232746501D0>: Failed to resolve 'cqshanshan.com' ([Errno 11001] getaddrinfo failed)"))
+vipleanda.com: HTTPSConnectionPool(host='vipleanda.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023274653DD0>: Failed to resolve 'vipleanda.com' ([Errno 11001] getaddrinfo failed)"))
+cqshanshan.com: HTTPSConnectionPool(host='cqshanshan.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002329814B610>: Failed to resolve 'cqshanshan.com' ([Errno 11001] getaddrinfo failed)"))
+vipleanda.com: HTTPSConnectionPool(host='vipleanda.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002329814BDD0>: Failed to resolve 'vipleanda.com' ([Errno 11001] getaddrinfo failed)"))
+cqshanshan.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+gdzhengfang.com: HTTPSConnectionPool(host='gdzhengfang.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023297B23850>: Failed to resolve 'gdzhengfang.com' ([Errno 11001] getaddrinfo failed)"))
+yyygqq.com: HTTPSConnectionPool(host='yyygqq.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023297B20F50>: Failed to resolve 'yyygqq.com' ([Errno 11001] getaddrinfo failed)"))
+vipleanda.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+yyygqq.com: HTTPSConnectionPool(host='yyygqq.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002326C3B6150>: Failed to resolve 'yyygqq.com' ([Errno 11001] getaddrinfo failed)"))
+gdzhengfang.com: HTTPSConnectionPool(host='gdzhengfang.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002326C3B5B10>: Failed to resolve 'gdzhengfang.com' ([Errno 11001] getaddrinfo failed)"))
+yyygqq.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+gdzhengfang.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+lbpdz.com: HTTPSConnectionPool(host='lbpdz.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023273F62F50>: Failed to resolve 'lbpdz.com' ([Errno 11001] getaddrinfo failed)"))
+mayy9080.com: HTTPSConnectionPool(host='mayy9080.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023273F62B90>: Failed to resolve 'mayy9080.com' ([Errno 11001] getaddrinfo failed)"))
+mayy9080.com: HTTPSConnectionPool(host='mayy9080.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023265D081D0>: Failed to resolve 'mayy9080.com' ([Errno 11001] getaddrinfo failed)"))
+lbpdz.com: HTTPSConnectionPool(host='lbpdz.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023265D0B890>: Failed to resolve 'lbpdz.com' ([Errno 11001] getaddrinfo failed)"))
+yiyo888.com: HTTPSConnectionPool(host='yiyo888.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023297281690>: Failed to resolve 'yiyo888.com' ([Errno 11001] getaddrinfo failed)"))
+mayy9080.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+lbpdz.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+xywhsc.com: HTTPSConnectionPool(host='xywhsc.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023273D62950>: Failed to resolve 'xywhsc.com' ([Errno 11001] getaddrinfo failed)"))
+buzixin.com: HTTPSConnectionPool(host='buzixin.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023273D60F10>: Failed to resolve 'buzixin.com' ([Errno 11001] getaddrinfo failed)"))
+xywhsc.com: HTTPSConnectionPool(host='xywhsc.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023297FF6550>: Failed to resolve 'xywhsc.com' ([Errno 11001] getaddrinfo failed)"))
+buzixin.com: HTTPSConnectionPool(host='buzixin.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023297FF5190>: Failed to resolve 'buzixin.com' ([Errno 11001] getaddrinfo failed)"))
+yiyo888.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+buzixin.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+xywhsc.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+iho100.com: HTTPSConnectionPool(host='iho100.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023273B627D0>: Failed to resolve 'iho100.com' ([Errno 11001] getaddrinfo failed)"))
+hbmurui.com: HTTPSConnectionPool(host='hbmurui.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023297181850>: Failed to resolve 'hbmurui.com' ([Errno 11001] getaddrinfo failed)"))
+)"))
+iho100.com: HTTPSConnectionPool(host='iho100.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000232990F19D0>: Failed to resolve 'iho100.com' ([Errno 11001] getaddrinfo failed)"))
+zhidianip.com: HTTPSConnectionPool(host='zhidianip.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023297183F50>: Failed to resolve 'zhidianip.com' ([Errno 11001] getaddrinfo failed)"))
+hbmurui.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+iho100.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+zhidianip.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+szlxxny.com: HTTPSConnectionPool(host='szlxxny.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023296BE03D0>: Failed to resolve 'szlxxny.com' ([Errno 11001] getaddrinfo failed)"))
+wanzhuanyinjiang.com: HTTPSConnectionPool(host='wanzhuanyinjiang.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023296BE0750>: Failed to resolve 'wanzhuanyinjiang.com' ([Errno 11001] getaddrinfo failed)"))
+kenhuangzu.com: HTTPSConnectionPool(host='kenhuangzu.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000232AA26CA50>: Failed to resolve 'kenhuangzu.com' ([Errno 11001] getaddrinfo failed)"))
+wanzhuanyinjiang.com: HTTPSConnectionPool(host='wanzhuanyinjiang.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023272EB0B90>: Failed to resolve 'wanzhuanyinjiang.com' ([Errno 11001] getaddrinfo failed)"))
+szlxxny.com: HTTPSConnectionPool(host='szlxxny.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023272EB3A50>: Failed to resolve 'szlxxny.com' ([Errno 11001] getaddrinfo failed)"))
+kenhuangzu.com: HTTPSConnectionPool(host='kenhuangzu.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000232AA26CF50>: Failed to resolve 'kenhuangzu.com' ([Errno 11001] getaddrinfo failed)"))
+wanzhuanyinjiang.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+kenhuangzu.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+szlxxny.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+fdsjjc.com: HTTPSConnectionPool(host='fdsjjc.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000232965E1250>: Failed to resolve 'fdsjjc.com' ([Errno 11001] getaddrinfo failed)"))
+mdo128.com: HTTPSConnectionPool(host='mdo128.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000232965E1890>: Failed to resolve 'mdo128.com' ([Errno 11001] getaddrinfo failed)"))
+mafenhuitao.com: HTTPSConnectionPool(host='mafenhuitao.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023273591F10>: Failed to resolve 'mafenhuitao.com' ([Errno 11001] getaddrinfo failed)"))
+fdsjjc.com: HTTPSConnectionPool(host='fdsjjc.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023296BE2590>: Failed to resolve 'fdsjjc.com' ([Errno 11001] getaddrinfo failed)"))
+mafenhuitao.com: HTTPSConnectionPool(host='mafenhuitao.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000232735917D0>: Failed to resolve 'mafenhuitao.com' ([Errno 11001] getaddrinfo failed)"))
+mdo128.com: HTTPSConnectionPool(host='mdo128.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023273591650>: Failed to resolve 'mdo128.com' ([Errno 11001] getaddrinfo failed)"))
+mafenhuitao.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+fdsjjc.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+mdo128.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+ghjy168.com: HTTPSConnectionPool(host='ghjy168.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023299407A10>: Failed to resolve 'ghjy168.com' ([Errno 11001] getaddrinfo failed)"))
+51newwit.com: HTTPSConnectionPool(host='51newwit.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002326B4057D0>: Failed to resolve '51newwit.com' ([Errno 11001] getaddrinfo failed)"))
+jlsjjs.com: HTTPSConnectionPool(host='jlsjjs.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002326B406350>: Failed to resolve 'jlsjjs.com' ([Errno 11001] getaddrinfo failed)"))
+ghjy168.com: HTTPSConnectionPool(host='ghjy168.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002326B407950>: Failed to resolve 'ghjy168.com' ([Errno 11001] getaddrinfo failed)"))
+51newwit.com: HTTPSConnectionPool(host='51newwit.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000232690C2A90>: Failed to resolve '51newwit.com' ([Errno 11001] getaddrinfo failed)"))
+ghjy168.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+51newwit.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+jlsjjs.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+hhhphp.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+copyrub.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+shziku.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+aan6.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+tanquanshui.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+8688jykj.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+hubangyoushang.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+shangchaokj.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+hnwaner.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+bjxinzhan.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+69tang.org: Invalid control character at: line 1 column 255636529 (char 255636528)
+qianlongjie.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+falv-tv.com: HTTPSConnectionPool(host='falv-tv.com', port=443): Read timed out. (read timeout=5)
+songshuxiaojian.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+falv-tv.com: HTTPSConnectionPool(host='falv-tv.com', port=443): Read timed out. (read timeout=5)
+jazzienglish.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+jsxugei.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+shguangcheng.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+jsrongbao.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+fun88asia8.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+tongjiaxinghy.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+ncsfrq.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+jlsdzh.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+qianjiidc.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+fwntc.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+pk2596.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+hzny56.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+yapaxpg.cn: HTTPSConnectionPool(host='yapaxpg.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000023267233690>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+vv8678.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+yapaxpg.cn: HTTPSConnectionPool(host='yapaxpg.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000023299404350>, 'Connection to yapaxpg.cn timed out. (connect timeout=5)'))
+yapaxpg.cn: Invalid control character at: line 1 column 255636529 (char 255636528)
+jingchengkuaiji.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+falv-tv.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+cdjiyou.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+yueersiwang.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+x1fu.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+ohas-home.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+jingcaiyundian.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+digital-sci.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+shenzhizhu.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+szyizhu.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+gyldmz.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+diguazaijia.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+hnzuohui.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+k39966.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+hnhangfei.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+zhixin-tech.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+tqiua.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+xzlgym.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+ahmoyin.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+hzshanghao.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+jiamengkaisuo.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+tongchengps.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+ynyk365.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+jintaoceramics.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+090227.xyz: Invalid control character at: line 1 column 255636529 (char 255636528)
+hzxianzi.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+haifalw.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+weiyun68.com: 
+bjshengxinyuan.com: 
+danjulove.com: 
+dingzhou321.com: 
+jc-nn.com: 
+ahmengqiu.com: 
+xksdwlkj.com: 
+juanguangguanli.com: 
+fycd56.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+norqj.com: 
+latoujours.com: 
+n65535.com: 
+cn0518.com: HTTPSConnectionPool(host='cn0518.com', port=443): Read timed out. (read timeout=5)
+cn0518.com: 503 Server Error: Service Unavailable for url: https://cn0518.com/
+cn0518.com: 
+qianjingyueqi.com: 
+guowaifuwuqi.shop: 503 Server Error: Service Unavailable for url: https://guowaifuwuqi.shop/
+guowaifuwuqi.shop: 503 Server Error: Service Unavailable for url: https://guowaifuwuqi.shop/
+guowaifuwuqi.shop: 
+langmanqingchun.com: 
+yanhaomin.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+xiangjitang1896.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+puley-group.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+wxpxhy.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+baigezhuangshi.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+zjgaixin.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+ntountuan.com: Invalid control character at: line 1 column 255636529 (char 255636528)
+jingbojieshu.com: 
+zawadilatumaini.com: 
+njyangmeng.com: 
+cqycqq.com: 
+ynxiongbing.com: 
+bldjrsh.com: 
+taoyou1030.com: 
+sccdtd.com: 
+vxm595.com: 
+hnhc0371.com: 
+liyuanping.com: 
+ahlungu.com: 
+sytaichi.com: 
+chengyupai.com: 
+nongfudaohe.com: 
+sdlihang.com: 
+06cz.com: 
+sdhuanxiang.com: 
+shzitao.com: 
+caiguoshangmao.com: 
+yjoys.com: 
+zsjhtape.com: 
+mhfzyxgs.com: 
+bjsydazhong.com: 
+suilinglongcaiheitao.com: 
+szhengyong.com: 
+hfictaobao.com: 
+shxiaohei.com: 
+world-dark-market.com: 
+viptegong.com: 
+hm-health100.com: 
+qrsp888.com: 
+haichanpinshangcheng.com: 
+24shijie.com: 
+bjlvvto.com: 
+runtongshiyebu.com: 
+yzstjgl.com: 
+fjrjsc.com: 
+kumengfuneng.com: 
+heriyo.com: 
+xiaoqicd.com: 
+quanwang360.com: 
+gdhzzhsq.com: 
+eofficecn.com: 
+cyhuyang.com: 
+wxxdjxc.com: 
+shinohtrade.com: 
+t5i84o3ufa93.com: 
+yunnandianshang.com: 
+sxshuhui.com: 
+365chiji.com: 
+qqmdao.com: 
+ezonehd.com: 
+ddstonexp.com: 
+nxzte.com: 
+bjjianhai.com: 
+shcdgz1.com: 
+weyoapp.com: 
+sumyet.com: 
+zpwuliu.com: 
+01060497922.com: 
+bixiange.top: 
+ycen.com.cn: 404 Client Error: Not Found for url: https://www.ycen.com.cn/zzgn/qwjs/index_wap.html
+qixiuqiangbu.com: 
+gzxuzheng.com: 
+ttzzq888.com: 
+zzfengshou.com: 
+xqacea.com: 
+zyqsky.com: 
+shyhxx.com: 
+gene-run.com: 
+sdlhcj.com: 
+jssheyou.com: 
+mtsbjy.com: 
+uonkmfq.cn: 
+tuoqingsy.com: 
+yezisy.com: 
+njyechangzp.com: 
+zaiwu7.com: 
+szcuriosity.com: 
+txelectron.com: 
+typyx.com: 
+qingcheng028.com: 
+sdzwxmgl.com: 
+jiehaizhongyang.com: 
+zuiimaocn.com: 
+rzhxs.com: 
+heilongskates.com: 
+pindaole.com: 
+xbjclm.com: 
+ynlinfeng.com: 
+ycen.com.cn: 
+jskaisa.com: 
+jsyzw213.com: 
+gsgjd.com: 
+szlingdu88.com: 
+roosdg.com: 
+zikunad.com: 
+ahyinyun.com: 
+syk1799.com: 
+jxyz8888.com: 
+zhixinjianzhu.com: 
+nvdaapp.com: 
+gzxsfy.com: 
+hlgex.com: 
+suzhoubrand.com: 
+whcxqzjd.com: 
+scjibei.com: 
+kaoshangbao.com: 
+jiuzhoubomei.com: 
+yuansuqiche.com: 
+njniuwei.com: 
+hndadao.com: 
+bjtnbyy120.com: 
+zhichirr.com: 
+0737fkyy.com: 
+qdzjxy.com: 
+hbqmjd.com: 
+xszdtz.com: 
+ynycyt.com: 
+hegucn.com: 
+dcs218.com: 
+hangemuye.com: 
+qzshjsbyy.com: 
+aoliontours.com: 
+sh-tongwei.com: 
+hbyzxs.com: 
+yjzrz.com: 
+szpowerup.com: 
+eco-enuo.com: 
+thg-shanghai.com: 
+bimoshusheng.com: 
+xmsctech.com: 
+gzyanyao.com: 
+szfengqun.com: 
+langmaicn.com: 
+cdzccj.com: 
+shengtongsifang.com: 
+huanlesongwm.com: 
+xuqing365.com: 
+qianfanqing.com: 
+fuxunhb.com: 
+chbrca.com: 
+hndxcq.com: 
+ytxinlingshou.com: 
+beijingzhcx.com: 
+zx5898.com: 
+huajinxinghui.com: 
+ywxtt.com: 
+xiaotuche.com: 
+ygffy.com: 
+dmttang.com: 
+kaolachunyin.com: 
+prandair.com: 
+jianing-china.com: 
+yunshanghebei.com: 
+jxjhcgd.com: 
+lxmn88.com: 
+youcongsu.com: 
+bebetop1.com: 
+xyx186.com: 
+jingyushequ.com: 
+waiziqiyesheli.com: 
+jyhmfj.com: 
+aicooledu.com: 
+gsmzsd.com: 
+pianshen.com: 
+shengqiaohearing.com: 
+sztuyan.com: 
+mywh666.com: HTTPSConnectionPool(host='mywh666.com', port=443): Read timed out. (read timeout=5)
+suibianxixi.com: 
+g9r98.cn: HTTPSConnectionPool(host='g9r98.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000232764068D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+g9r98.cn: HTTPSConnectionPool(host='g9r98.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000232A9FDC590>, 'Connection to g9r98.cn timed out. (connect timeout=5)'))
+g9r98.cn: 
+hyaoshop.com: 
+mywh666.com: HTTPSConnectionPool(host='mywh666.com', port=443): Read timed out. (read timeout=5)
+mywh666.com: 
+tzwscs.com: 
+haogualou.com: HTTPSConnectionPool(host='haogualou.com', port=443): Read timed out. (read timeout=5)
+haogualou.com: 
+jhmlctz.com: 
+soadun.com: 
+cits66888.com: 
+pb328.com: 
+55jiaju.com: 
+zcpie.com: 
+wuhuikeji56.com: 
+sdguibin.com: 
+aiqifeng.com: 
+tripadvisor.cn: 
+cqliqing.com: 
+kiwitj.com: 
+zhuawawaapp.com: 
+gdhouzhong.com: 
+szbinhai.com: 
+wangyuechequan.com: 
+jeiun.com: 
+tjjiexin.com: 
+qhdgdnkyy.com: 
+shzhuosu.com: 
+vcpqmfd.cn: 
+xiaoxinxiaoxi.com: 
+kuanggkj.com: 
+gzbiqi.com: 
+yuanhengchenghe.com: 
+haibohz.com: 
+guangsishui.com: HTTPSConnectionPool(host='guangsishui.com', port=443): Read timed out. (read timeout=5)
+dilancl.com: 
+guangsishui.com: 
+zhixingqingti.com: 
+weizhouiot.com: 
+hbhuiping.com: 
+gz962jc.com: 
+tongyumaoyi.com: 
+grafton-sx.com: 
+sundecoration.cn: HTTPSConnectionPool(host='sundecoration.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000023297244050>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+sundecoration.cn: HTTPSConnectionPool(host='sundecoration.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002326F62B290>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+sundecoration.cn: 
+fjsonggu.com: 
+hmmcd.com: 
+sf1331.com: 
+baoshixilie.com: 
+hbkangci.com: 
+gp007007.com: 
+snzhihe.com: 
+hgc12360.com: HTTPSConnectionPool(host='hgc12360.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024A82E93690>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+hgc12360.com: HTTPSConnectionPool(host='hgc12360.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024A83E312D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+sfjzfw.com: Document with ID 7310 already exists
+hrcass.com: Document with ID 7310 already exists
+hengkunwangluo.com: Document with ID 7311 already exists
+jizandi.com: Document with ID 7345 already exists
+jfhqjd.com: HTTPSConnectionPool(host='jfhqjd.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024B32A64090>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+jfhqjd.com: HTTPSConnectionPool(host='jfhqjd.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024B3474B810>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+gxkohler.com: HTTPSConnectionPool(host='gxkohler.com', port=443): Read timed out. (read timeout=5)
+hzny56.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+ncsfrq.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+fwntc.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+yapaxpg.cn: HTTPSConnectionPool(host='yapaxpg.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000024B58E6F010>, 'Connection to yapaxpg.cn timed out. (connect timeout=5)'))
+yapaxpg.cn: HTTPSConnectionPool(host='yapaxpg.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000024B56632ED0>, 'Connection to yapaxpg.cn timed out. (connect timeout=5)'))
+yapaxpg.cn: Invalid control character at: line 1 column 256651985 (char 256651984)
+sucaibar.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+jingchengkuaiji.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+yueersiwang.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+falv-tv.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+pk2596.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+x1fu.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+cdjiyou.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+ohas-home.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+jingcaiyundian.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+szyizhu.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+k39966.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+hnzuohui.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+digital-sci.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+shenzhizhu.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+diguazaijia.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+zhixin-tech.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+gyldmz.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+jiamengkaisuo.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+hnhangfei.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+hzshanghao.com: HTTPSConnectionPool(host='hzshanghao.com', port=443): Read timed out. (read timeout=5)
+hzshanghao.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+tqiua.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+tongchengps.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+xzlgym.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+ahmoyin.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+ynyk365.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+jintaoceramics.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+danjulove.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+weiyun68.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+jc-nn.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+hzxianzi.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+dingzhou321.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+bjshengxinyuan.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+ahmengqiu.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+haifalw.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+norqj.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+fycd56.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+xksdwlkj.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+qianjingyueqi.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+langmanqingchun.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+yanhaomin.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+n65535.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+latoujours.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+juanguangguanli.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+xiangjitang1896.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+puley-group.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+wxpxhy.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+jingbojieshu.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+baigezhuangshi.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+zjgaixin.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+ntountuan.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+njyangmeng.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+zawadilatumaini.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+bldjrsh.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+ynxiongbing.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+cqycqq.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+shcdgz1.com: HTTPSConnectionPool(host='shcdgz1.com', port=443): Read timed out. (read timeout=5)
+shcdgz1.com: HTTPSConnectionPool(host='shcdgz1.com', port=443): Read timed out. (read timeout=5)
+shcdgz1.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+taoyou1030.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+vxm595.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+06cz.com: HTTPSConnectionPool(host='06cz.com', port=443): Read timed out. (read timeout=5)
+ahlungu.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+06cz.com: HTTPSConnectionPool(host='06cz.com', port=443): Read timed out. (read timeout=5)
+sccdtd.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+hnhc0371.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+sytaichi.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+liyuanping.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+sdhuanxiang.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+nongfudaohe.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+06cz.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+sdlihang.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+chengyupai.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+yjoys.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+shzitao.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+bjsydazhong.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+caiguoshangmao.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+cn0518.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+zsjhtape.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+mhfzyxgs.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+suilinglongcaiheitao.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+shxiaohei.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+guowaifuwuqi.shop: Invalid control character at: line 1 column 256651985 (char 256651984)
+hfictaobao.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+viptegong.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+world-dark-market.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+szhengyong.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+bjlvvto.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+hm-health100.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+haichanpinshangcheng.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+yzstjgl.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+qrsp888.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+24shijie.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+runtongshiyebu.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+fjrjsc.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+kumengfuneng.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+heriyo.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+xiaoqicd.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+quanwang360.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+eofficecn.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+gdhzzhsq.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+t5i84o3ufa93.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+cyhuyang.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+shinohtrade.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+yunnandianshang.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+ddstonexp.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+ezonehd.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+sxshuhui.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+wxxdjxc.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+qqmdao.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+sumyet.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+bjjianhai.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+nxzte.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+weyoapp.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+qixiuqiangbu.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+ycen.com.cn: 404 Client Error: Not Found for url: https://www.ycen.com.cn/zzgn/qwjs/index_wap.html
+zpwuliu.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+01060497922.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+bixiange.top: Invalid control character at: line 1 column 256651985 (char 256651984)
+zzfengshou.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+gzxuzheng.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+xqacea.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+ttzzq888.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+365chiji.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+sdlhcj.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+shyhxx.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+gene-run.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+zyqsky.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+jssheyou.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+mtsbjy.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+uonkmfq.cn: Invalid control character at: line 1 column 256651985 (char 256651984)
+zaiwu7.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+tuoqingsy.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+yezisy.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+szcuriosity.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+njyechangzp.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+qingcheng028.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+pindaole.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+zuiimaocn.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+typyx.com: 
+txelectron.com: 
+ynlinfeng.com: 
+rzhxs.com: 
+jiehaizhongyang.com: 
+sdzwxmgl.com: 
+ycen.com.cn: 
+jskaisa.com: 
+xbjclm.com: 
+jsyzw213.com: HTTPSConnectionPool(host='jsyzw213.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000024B55536D10>, 'Connection to jsyzw213.com timed out. (connect timeout=5)'))
+jsyzw213.com: 
+gsgjd.com: 
+roosdg.com: 
+syk1799.com: 
+szlingdu88.com: 
+ahyinyun.com: 
+zikunad.com: 
+hlgex.com: 
+jxyz8888.com: 
+zhixinjianzhu.com: 
+nvdaapp.com: 
+gzxsfy.com: 
+suzhoubrand.com: 
+whcxqzjd.com: 
+kaoshangbao.com: 
+hndadao.com: 
+0737fkyy.com: 
+scjibei.com: 
+zhichirr.com: 
+yuansuqiche.com: 
+jiuzhoubomei.com: 
+njniuwei.com: 
+heilongskates.com: 
+bjtnbyy120.com: 
+dmttang.com: 
+xszdtz.com: 
+hbqmjd.com: 
+qdzjxy.com: 
+hangemuye.com: 
+dcs218.com: 
+aoliontours.com: 
+qzshjsbyy.com: 
+ynycyt.com: 
+hbyzxs.com: 
+sh-tongwei.com: 
+yjzrz.com: 
+hegucn.com: 
+gzyanyao.com: 
+szpowerup.com: 
+thg-shanghai.com: 
+eco-enuo.com: 
+szfengqun.com: 
+xmsctech.com: 
+bimoshusheng.com: 
+cdzccj.com: 
+langmaicn.com: 
+shengtongsifang.com: 
+huanlesongwm.com: 
+qianfanqing.com: 
+fuxunhb.com: 
+xuqing365.com: 
+ytxinlingshou.com: 
+chbrca.com: 
+hndxcq.com: 
+zx5898.com: 
+ygffy.com: 
+huajinxinghui.com: 
+sztuyan.com: HTTPSConnectionPool(host='sztuyan.com', port=443): Read timed out. (read timeout=5)
+ywxtt.com: 
+sztuyan.com: 
+beijingzhcx.com: 
+kaolachunyin.com: 
+jianing-china.com: 
+xiaotuche.com: 
+prandair.com: 
+yunshanghebei.com: 
+lxmn88.com: 
+jxjhcgd.com: 
+jingyushequ.com: 
+youcongsu.com: 
+xyx186.com: 
+jyhmfj.com: 
+bebetop1.com: 
+waiziqiyesheli.com: 
+suibianxixi.com: 
+aicooledu.com: 
+gsmzsd.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+tzwscs.com: 
+shengqiaohearing.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+g9r98.cn: HTTPSConnectionPool(host='g9r98.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024B57DE4D90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+g9r98.cn: HTTPSConnectionPool(host='g9r98.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000024B54306B50>, 'Connection to g9r98.cn timed out. (connect timeout=5)'))
+haogualou.com: 
+g9r98.cn: 
+hyaoshop.com: 
+soadun.com: 
+pianshen.com: 
+pb328.com: 
+cits66888.com: 
+jhmlctz.com: 
+wuhuikeji56.com: 
+zcpie.com: 
+sdguibin.com: 
+tripadvisor.cn: 
+55jiaju.com: 
+kiwitj.com: 
+aiqifeng.com: 
+gdhouzhong.com: 
+zhuawawaapp.com: 
+jeiun.com: 
+cqliqing.com: 
+tjjiexin.com: 
+shzhuosu.com: 
+mywh666.com: 
+xiaoxinxiaoxi.com: HTTPSConnectionPool(host='xiaoxinxiaoxi.com', port=443): Max retries exceeded with url: / (Caused by SSLError(OSError(12, 'Not enough space')))
+xiaoxinxiaoxi.com: 
+vcpqmfd.cn: 
+wangyuechequan.com: 
+hbkangci.com: HTTPSConnectionPool(host='hbkangci.com', port=443): Read timed out. (read timeout=5)
+szbinhai.com: 
+qhdgdnkyy.com: 
+gzbiqi.com: 
+kuanggkj.com: 
+haibohz.com: 
+yuanhengchenghe.com: 
+dilancl.com: 
+zhixingqingti.com: 
+hbhuiping.com: 
+gz962jc.com: 
+weizhouiot.com: 
+tongyumaoyi.com: 
+baoshixilie.com: 
+hmmcd.com: 
+sundecoration.cn: HTTPSConnectionPool(host='sundecoration.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024B36346150>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+sundecoration.cn: HTTPSConnectionPool(host='sundecoration.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024B54305850>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+sundecoration.cn: 
+fjsonggu.com: 
+sf1331.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+gp007007.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+grafton-sx.com: Invalid control character at: line 1 column 256651985 (char 256651984)
+hbkangci.com: HTTPSConnectionPool(host='hbkangci.com', port=443): Read timed out. (read timeout=5)
+hbkangci.com: 
+szcqkj.com: 
+snzhihe.com: 
+cdxzy999.com: 
+nxljdxh.cn: HTTPSConnectionPool(host='nxljdxh.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000024B57D99890>, 'Connection to nxljdxh.cn timed out. (connect timeout=5)'))
+nxljdxh.cn: HTTPSConnectionPool(host='nxljdxh.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000024B556991D0>, 'Connection to nxljdxh.cn timed out. (connect timeout=5)'))
+nxljdxh.cn: 
+zjbaibei.com: 
+guangsishui.com: 
+feiyghk.com: 
+hbguohai.com: 
+ahliujun.com: 
+juhuitengxiang.com: 
+jlsdzh.com: Document with ID 7409 already exists
+copyrub.com: Document with ID 7410 already exists
+hengkunwangluo.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+yapaxpg.cn: HTTPSConnectionPool(host='yapaxpg.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002DD1607B810>, 'Connection to yapaxpg.cn timed out. (connect timeout=5)'))
+yapaxpg.cn: HTTPSConnectionPool(host='yapaxpg.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002DD038D05D0>, 'Connection to yapaxpg.cn timed out. (connect timeout=5)'))
+yapaxpg.cn: Invalid control character at: line 1 column 256734100 (char 256734099)
+jizandi.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+ncsfrq.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+679312.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+hzcty.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+x1fu.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+jingcaiyundian.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+cdjiyou.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+digital-sci.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+szyizhu.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+ohas-home.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+hnzuohui.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+k39966.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+gyldmz.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+shenzhizhu.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+diguazaijia.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+zhixin-tech.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+ahmoyin.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+hnhangfei.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+tqiua.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+jiamengkaisuo.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+xzlgym.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+hzshanghao.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+ynyk365.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+tongchengps.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+danjulove.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+weiyun68.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+bjshengxinyuan.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+ahmengqiu.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+haifalw.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+dingzhou321.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+xksdwlkj.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+hzxianzi.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+jc-nn.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+jintaoceramics.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+fycd56.com: HTTPSConnectionPool(host='fycd56.com', port=443): Read timed out. (read timeout=5)
+fycd56.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+juanguangguanli.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+qianjingyueqi.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+norqj.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+latoujours.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+n65535.com: HTTPSConnectionPool(host='n65535.com', port=443): Read timed out. (read timeout=5)
+n65535.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+cn0518.com: HTTPSConnectionPool(host='cn0518.com', port=443): Read timed out. (read timeout=5)
+cn0518.com: 503 Server Error: Service Unavailable for url: https://cn0518.com/
+cn0518.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+vxm595.com: HTTPSConnectionPool(host='vxm595.com', port=443): Read timed out. (read timeout=5)
+guowaifuwuqi.shop: 503 Server Error: Service Unavailable for url: https://guowaifuwuqi.shop/
+guowaifuwuqi.shop: Invalid control character at: line 1 column 256734100 (char 256734099)
+langmanqingchun.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+xiangjitang1896.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+yanhaomin.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+baigezhuangshi.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+wxpxhy.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+ntountuan.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+jingbojieshu.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+zjgaixin.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+ynxiongbing.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+njyangmeng.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+cqycqq.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+puley-group.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+06cz.com: HTTPSConnectionPool(host='06cz.com', port=443): Read timed out. (read timeout=5)
+bldjrsh.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+taoyou1030.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+zawadilatumaini.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+vxm595.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+ahlungu.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+sccdtd.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+mhfzyxgs.com: HTTPSConnectionPool(host='mhfzyxgs.com', port=443): Read timed out.
+mhfzyxgs.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+liyuanping.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+shxiaohei.com: HTTPSConnectionPool(host='shxiaohei.com', port=443): Read timed out. (read timeout=5)
+hnhc0371.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+sucaibar.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+sytaichi.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+szhengyong.com: HTTPSConnectionPool(host='szhengyong.com', port=443): Read timed out. (read timeout=5)
+cyhuyang.com: 502 Server Error: Bad Gateway for url: https://cyhuyang.com/
+sdlihang.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+chengyupai.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+d timeout=5)
+sdhuanxiang.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+nongfudaohe.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+heilongskates.com: HTTPSConnectionPool(host='heilongskates.com', port=443): Read timed out.
+caiguoshangmao.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+bjsydazhong.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+qrsp888.com: HTTPSConnectionPool(host='qrsp888.com', port=443): Max retries exceeded with url: /product/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002DCB4C4F750>: Failed to establish a new connection: [WinError 10051] A socket operation was attempted to an unreachable network'))
+24shijie.com: HTTPSConnectionPool(host='24shijie.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002DD16AA76D0>: Failed to establish a new connection: [WinError 10051] A socket operation was attempted to an unreachable network'))
+24shijie.com: HTTPSConnectionPool(host='24shijie.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002DCEFEC4B50>: Failed to resolve '24shijie.com' ([Errno 11001] getaddrinfo failed)"))
+24shijie.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+qrsp888.com: HTTPSConnectionPool(host='qrsp888.com', port=443): Max retries exceeded with url: /contact.html (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002DCB483F310>: Failed to resolve 'qrsp888.com' ([Errno 11001] getaddrinfo failed)"))
+wxxdjxc.com: HTTPSConnectionPool(host='wxxdjxc.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002DCB483E9D0>: Failed to resolve 'wxxdjxc.com' ([Errno 11001] getaddrinfo failed)"))
+wxxdjxc.com: HTTPSConnectionPool(host='wxxdjxc.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002DCB483DE50>: Failed to resolve 'wxxdjxc.com' ([Errno 11001] getaddrinfo failed)"))
+wxxdjxc.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+qrsp888.com: HTTPSConnectionPool(host='qrsp888.com', port=443): Read timed out.
+shzitao.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+world-dark-market.com: HTTPSConnectionPool(host='world-dark-market.com', port=443): Read timed out. (read timeout=5)
+06cz.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+suilinglongcaiheitao.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+yjoys.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+zsjhtape.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+shxiaohei.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+runtongshiyebu.com: HTTPSConnectionPool(host='runtongshiyebu.com', port=443): Read timed out. (read timeout=5)
+hfictaobao.com: [Errno 22] Invalid argument
+viptegong.com: 
+world-dark-market.com: 
+szhengyong.com: 
+hm-health100.com: 
+qrsp888.com: 
+cyhuyang.com: 502 Server Error: Bad Gateway for url: https://cyhuyang.com/
+cyhuyang.com: 
+haichanpinshangcheng.com: 
+bjlvvto.com: 
+yzstjgl.com: 
+xiaoqicd.com: 
+kumengfuneng.com: 
+quanwang360.com: 
+runtongshiyebu.com: 
+fjrjsc.com: 
+heriyo.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+eofficecn.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+gdhzzhsq.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+shinohtrade.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+t5i84o3ufa93.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+sxshuhui.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+yunnandianshang.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+ddstonexp.com: Invalid control character at: line 1 column 256734100 (char 256734099)
+vv8678.com: [Errno 13] Permission denied
+zhixin-tech.com: HTTPSConnectionPool(host='zhixin-tech.com', port=443): Read timed out. (read timeout=5)
+jizandi.com: Document with ID 7413 already exists
+hnzuohui.com: Document with ID 7413 already exists
+yapaxpg.cn: HTTPSConnectionPool(host='yapaxpg.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002E1E3571250>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+yapaxpg.cn: HTTPSConnectionPool(host='yapaxpg.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002E1D2A90CD0>, 'Connection to yapaxpg.cn timed out. (connect timeout=5)'))
+ahmoyin.com: HTTPSConnectionPool(host='ahmoyin.com', port=443): Read timed out. (read timeout=5)
+k39966.com: Invalid control character at: line 1 column 256809435 (char 256809434)
+szyizhu.com: Invalid control character at: line 1 column 256809435 (char 256809434)
+jlsdzh.com: Invalid control character at: line 1 column 256809435 (char 256809434)
+hzcty.com: Invalid control character at: line 1 column 256809435 (char 256809434)
+digital-sci.com: Invalid control character at: line 1 column 256809435 (char 256809434)
+gyldmz.com: Invalid control character at: line 1 column 256809435 (char 256809434)
+diguazaijia.com: Invalid control character at: line 1 column 256809435 (char 256809434)
+tqiua.com: Invalid control character at: line 1 column 256809435 (char 256809434)
+weiyun68.com: Invalid control character at: line 1 column 256809435 (char 256809434)
+ahmoyin.com: Invalid control character at: line 1 column 256809435 (char 256809434)
+shenzhizhu.com: Invalid control character at: line 1 column 256809435 (char 256809434)
+hzshanghao.com: Invalid control character at: line 1 column 256809435 (char 256809434)
+jiamengkaisuo.com: Invalid control character at: line 1 column 256809435 (char 256809434)
+hnhangfei.com: Invalid control character at: line 1 column 256809435 (char 256809434)
+jintaoceramics.com: Invalid control character at: line 1 column 256809435 (char 256809434)
+tongchengps.com: Invalid control character at: line 1 column 256809435 (char 256809434)
+xzlgym.com: Invalid control character at: line 1 column 256809435 (char 256809434)
+ynyk365.com: Invalid control character at: line 1 column 256809435 (char 256809434)
+hzxianzi.com: Invalid control character at: line 1 column 256809435 (char 256809434)
+danjulove.com: Invalid control character at: line 1 column 256809435 (char 256809434)
+jc-nn.com: Invalid control character at: line 1 column 256809435 (char 256809434)
+dingzhou321.com: Invalid control character at: line 1 column 256809435 (char 256809434)
+bjshengxinyuan.com: Invalid control character at: line 1 column 256809435 (char 256809434)
+ahmengqiu.com: Invalid control character at: line 1 column 256809435 (char 256809434)
+haifalw.com: Invalid control character at: line 1 column 256809435 (char 256809434)
+xksdwlkj.com: Invalid control character at: line 1 column 256809435 (char 256809434)
+norqj.com: Invalid control character at: line 1 column 256809435 (char 256809434)
+fycd56.com: Invalid control character at: line 1 column 256809435 (char 256809434)
+xiangjitang1896.com: Invalid control character at: line 1 column 256809435 (char 256809434)
+shenzhizhu.com: HTTPSConnectionPool(host='shenzhizhu.com', port=443): Read timed out.
+sucaibar.com: HTTPSConnectionPool(host='www.sucaibar.com', port=443): Read timed out. (read timeout=5)
+hzshanghao.com: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+hzshanghao.com: HTTPSConnectionPool(host='hzshanghao.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000022CB00EE150>, 'Connection to hzshanghao.com timed out. (connect timeout=5)'))
+ynxiongbing.com: HTTPSConnectionPool(host='ynxiongbing.com', port=443): Read timed out. (read timeout=5)
+qianjingyueqi.com: HTTPSConnectionPool(host='qianjingyueqi.com', port=443): Read timed out. (read timeout=5)
+n65535.com: HTTPSConnectionPool(host='n65535.com', port=443): Read timed out. (read timeout=5)
+cn0518.com: 503 Server Error: Service Unavailable for url: https://cn0518.com/
+guowaifuwuqi.shop: 503 Server Error: Service Unavailable for url: https://guowaifuwuqi.shop/
+cn0518.com: 503 Server Error: Service Unavailable for url: https://cn0518.com/
+guowaifuwuqi.shop: 503 Server Error: Service Unavailable for url: https://guowaifuwuqi.shop/
+liyuanping.com: HTTPSConnectionPool(host='liyuanping.com', port=443): Read timed out.
+jingbojieshu.com: HTTPSConnectionPool(host='jingbojieshu.com', port=443): Read timed out. (read timeout=5)
+06cz.com: HTTPSConnectionPool(host='06cz.com', port=443): Read timed out. (read timeout=5)
+06cz.com: HTTPSConnectionPool(host='06cz.com', port=443): Read timed out. (read timeout=5)
+06cz.com: HTTPSConnectionPool(host='06cz.com', port=443): Read timed out. (read timeout=5)
+bjsydazhong.com: HTTPSConnectionPool(host='bjsydazhong.com', port=443): Read timed out. (read timeout=5)
+eofficecn.com: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+eofficecn.com: HTTPSConnectionPool(host='eofficecn.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022CB068F4D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+qqmdao.com: HTTPSConnectionPool(host='qqmdao.com', port=443): Read timed out. (read timeout=5)
+xqacea.com: HTTPSConnectionPool(host='xqacea.com', port=443): Read timed out.
+uonkmfq.cn: 503 Server Error: Service Unavailable for url: https://uonkmfq.cn/
+uonkmfq.cn: 503 Server Error: Service Unavailable for url: https://uonkmfq.cn/
+ycen.com.cn: 404 Client Error: Not Found for url: https://www.ycen.com.cn/zzgn/qwjs/index_wap.html
+njyechangzp.com: HTTPSConnectionPool(host='njyechangzp.com', port=443): Read timed out. (read timeout=5)
+sdzwxmgl.com: HTTPSConnectionPool(host='sdzwxmgl.com', port=443): Read timed out. (read timeout=5)
+ynlinfeng.com: HTTPSConnectionPool(host='ynlinfeng.com', port=443): Read timed out. (read timeout=5)
+roosdg.com: HTTPSConnectionPool(host='roosdg.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000022CAF369710>, 'Connection to roosdg.com timed out. (connect timeout=5)'))
+roosdg.com: HTTPSConnectionPool(host='roosdg.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000022CACE2D6D0>, 'Connection to roosdg.com timed out. (connect timeout=5)'))
+jsyzw213.com: HTTPSConnectionPool(host='jsyzw213.com', port=443): Read timed out. (read timeout=5)
+ycen.com.cn: HTTPSConnectionPool(host='ycen.com.cn', port=443): Read timed out.
+gzxsfy.com: HTTPSConnectionPool(host='gzxsfy.com', port=443): Read timed out.
+kaoshangbao.com: HTTPSConnectionPool(host='kaoshangbao.com', port=443): Read timed out. (read timeout=5)
+ywxtt.com: HTTPSConnectionPool(host='ywxtt.com', port=443): Read timed out. (read timeout=5)
+sztuyan.com: HTTPSConnectionPool(host='sztuyan.com', port=443): Read timed out. (read timeout=5)
+g9r98.cn: HTTPSConnectionPool(host='g9r98.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022CDEE1AD90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+g9r98.cn: HTTPSConnectionPool(host='g9r98.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022CDEEBE510>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+mywh666.com: HTTPSConnectionPool(host='mywh666.com', port=443): Read timed out. (read timeout=5)
+vcpqmfd.cn: 500 Server Error: Internal Server Error for url: https://vcpqmfd.cn/
+vcpqmfd.cn: 500 Server Error: Internal Server Error for url: https://vcpqmfd.cn/
+hbkangci.com: HTTPSConnectionPool(host='hbkangci.com', port=443): Read timed out. (read timeout=5)
+hbkangci.com: HTTPSConnectionPool(host='hbkangci.com', port=443): Read timed out. (read timeout=5)
+sundecoration.cn: HTTPSConnectionPool(host='sundecoration.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022CAF4AEB10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+sqzagt.com: HTTPSConnectionPool(host='sqzagt.com', port=443): Read timed out. (read timeout=5)
+sundecoration.cn: HTTPSConnectionPool(host='sundecoration.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022CAC4D5990>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+nxljdxh.cn: HTTPSConnectionPool(host='nxljdxh.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022CACD74D10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+nxljdxh.cn: HTTPSConnectionPool(host='nxljdxh.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022CAF620AD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+guangsishui.com: HTTPSConnectionPool(host='guangsishui.com', port=443): Read timed out. (read timeout=5)
+ixiangke.com: HTTPSConnectionPool(host='ixiangke.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000022CAF46E710>, 'Connection to ixiangke.com timed out. (connect timeout=5)'))
+ixiangke.com: HTTPSConnectionPool(host='ixiangke.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000022CAF5ACE90>, 'Connection to ixiangke.com timed out. (connect timeout=5)'))
+world-drugs-online.com: HTTPSConnectionPool(host='world-drugs-online.com', port=443): Read timed out. (read timeout=5)
+tchurl.com: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+tchurl.com: HTTPSConnectionPool(host='tchurl.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022CAC6B8F10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+ordoswkl.cn: HTTPSConnectionPool(host='ordoswkl.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022CB0220910>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+ordoswkl.cn: HTTPSConnectionPool(host='ordoswkl.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000022CAF633350>, 'Connection to ordoswkl.cn timed out. (connect timeout=5)'))
+zsrexian.com: HTTPSConnectionPool(host='zsrexian.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022CCE1D9490>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+951130.com: HTTPSConnectionPool(host='951130.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022CAF507E90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+zsrexian.com: HTTPSConnectionPool(host='zsrexian.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022CAF4DCE90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+951130.com: HTTPSConnectionPool(host='951130.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022CB0027790>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+307186.com: HTTPSConnectionPool(host='307186.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for '307186.com'. (_ssl.c:1006)")))
+307186.com: HTTPSConnectionPool(host='307186.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for '307186.com'. (_ssl.c:1006)")))
+tdty8.com: HTTPSConnectionPool(host='tdty8.com', port=443): Read timed out.
+pjmszs.com: HTTPSConnectionPool(host='pjmszs.com', port=443): Read timed out. (read timeout=5)
+phxqmqk.cn: 500 Server Error: Internal Server Error for url: https://phxqmqk.cn/
+phxqmqk.cn: 500 Server Error: Internal Server Error for url: https://phxqmqk.cn/
+xflm666.com: HTTPSConnectionPool(host='xflm666.com', port=443): Read timed out. (read timeout=5)
+qiqingkeji.com: HTTPSConnectionPool(host='qiqingkeji.com', port=443): Read timed out.
+renyi1983.com: HTTPSConnectionPool(host='renyi1983.com', port=443): Read timed out. (read timeout=5)
+fumancang168.com: HTTPSConnectionPool(host='fumancang168.com', port=443): Read timed out. (read timeout=5)
+eeypxzg.cn: HTTPSConnectionPool(host='eeypxzg.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022CAF599110>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+eeypxzg.cn: HTTPSConnectionPool(host='eeypxzg.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022CAF363610>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+fumancang168.com: HTTPSConnectionPool(host='fumancang168.com', port=443): Read timed out. (read timeout=5)
+dgzhaozhi.com: HTTPSConnectionPool(host='dgzhaozhi.com', port=443): Read timed out. (read timeout=5)
+51baoliao01.com: HTTPSConnectionPool(host='51baoliao01.com', port=443): Read timed out. (read timeout=5)
+renyi1983.com: HTTPSConnectionPool(host='renyi1983.com', port=443): Read timed out. (read timeout=5)
+sddingchuang.com: HTTPSConnectionPool(host='sddingchuang.com', port=443): Read timed out. (read timeout=5)
+dlyingji.com: HTTPSConnectionPool(host='dlyingji.com', port=443): Read timed out. (read timeout=5)
+dlyingji.com: HTTPSConnectionPool(host='dlyingji.com', port=443): Read timed out. (read timeout=5)
+vpitchina.com: HTTPSConnectionPool(host='vpitchina.com', port=443): Read timed out. (read timeout=5)
+tianji629.com: HTTPSConnectionPool(host='tianji629.com', port=443): Read timed out. (read timeout=5)
+vpitchina.com: HTTPSConnectionPool(host='vpitchina.com', port=443): Read timed out. (read timeout=5)
+vpitchina.com: HTTPSConnectionPool(host='vpitchina.com', port=443): Read timed out. (read timeout=5)
+yuanxinsz.cn: 500 Server Error: Internal Server Error for url: https://yuanxinsz.cn/
+yuanxinsz.cn: 500 Server Error: Internal Server Error for url: https://yuanxinsz.cn/
+vpitchina.com: HTTPSConnectionPool(host='vpitchina.com', port=443): Read timed out. (read timeout=5)
+gdtuozhan.cn: HTTPSConnectionPool(host='gdtuozhan.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022CB135FE50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+gdtuozhan.cn: HTTPSConnectionPool(host='gdtuozhan.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000022CB135CC50>, 'Connection to gdtuozhan.cn timed out. (connect timeout=5)'))
+vpitchina.com: HTTPSConnectionPool(host='vpitchina.com', port=443): Read timed out. (read timeout=5)
+wildsuy.cn: 500 Server Error: Internal Server Error for url: https://wildsuy.cn/
+wildsuy.cn: 500 Server Error: Internal Server Error for url: https://wildsuy.cn/
+dh7.pro: HTTPSConnectionPool(host='dh7.pro', port=443): Read timed out. (read timeout=5)
+txt99.cc: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+txt99.cc: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+chajingju.com: HTTPSConnectionPool(host='chajingju.com', port=443): Read timed out. (read timeout=5)
+szdk158.com: HTTPSConnectionPool(host='szdk158.com', port=443): Read timed out. (read timeout=5)
+chajingju.com: HTTPSConnectionPool(host='chajingju.com', port=443): Read timed out. (read timeout=5)
+quanmingozc.com: HTTPSConnectionPool(host='quanmingozc.com', port=443): Read timed out. (read timeout=5)
+fuliyuehaiwan.com: HTTPSConnectionPool(host='fuliyuehaiwan.com', port=443): Read timed out. (read timeout=5)
+htcwqq.com: HTTPSConnectionPool(host='htcwqq.com', port=443): Read timed out.
+cqherxf.com: HTTPSConnectionPool(host='cqherxf.com', port=443): Read timed out. (read timeout=5)
+cqherxf.com: HTTPSConnectionPool(host='cqherxf.com', port=443): Read timed out. (read timeout=5)
+9kd.com: HTTPSConnectionPool(host='www.9kd.com', port=443): Read timed out. (read timeout=5)
+dpgkgur.cn: HTTPSConnectionPool(host='dpgkgur.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000022CAF6442D0>, 'Connection to dpgkgur.cn timed out. (connect timeout=5)'))
+dpgkgur.cn: HTTPSConnectionPool(host='dpgkgur.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000022CACC11190>, 'Connection to dpgkgur.cn timed out. (connect timeout=5)'))
+rogbbeq.cn: 500 Server Error: Internal Server Error for url: https://rogbbeq.cn/
+rogbbeq.cn: 500 Server Error: Internal Server Error for url: https://rogbbeq.cn/
+sjuezva.cn: HTTPSConnectionPool(host='sjuezva.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000022CAFCDC4D0>, 'Connection to sjuezva.cn timed out. (connect timeout=5)'))
+sjuezva.cn: HTTPSConnectionPool(host='sjuezva.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000022CB0220910>, 'Connection to sjuezva.cn timed out. (connect timeout=5)'))
+jiuywl.com: HTTPSConnectionPool(host='jiuywl.com', port=443): Read timed out. (read timeout=5)
+jiuywl.com: HTTPSConnectionPool(host='jiuywl.com', port=443): Read timed out. (read timeout=5)
+xmbhoku.cn: HTTPSConnectionPool(host='xmbhoku.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000022CACDC9850>, 'Connection to xmbhoku.cn timed out. (connect timeout=5)'))
+xmbhoku.cn: HTTPSConnectionPool(host='xmbhoku.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000022CB00860D0>, 'Connection to xmbhoku.cn timed out. (connect timeout=5)'))
+qingchenzhongye.com: HTTPSConnectionPool(host='qingchenzhongye.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000022CAFC72990>, 'Connection to qingchenzhongye.com timed out. (connect timeout=5)'))
+hejingyu.com: HTTPSConnectionPool(host='hejingyu.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'hejingyu.com'. (_ssl.c:1006)")))
+qingchenzhongye.com: HTTPSConnectionPool(host='qingchenzhongye.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000022CB0271E90>, 'Connection to qingchenzhongye.com timed out. (connect timeout=5)'))
+hejingyu.com: HTTPSConnectionPool(host='hejingyu.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'hejingyu.com'. (_ssl.c:1006)")))
+nbpajia.com: HTTPSConnectionPool(host='nbpajia.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000022CACCEFE50>, 'Connection to nbpajia.com timed out. (connect timeout=5)'))
+nbpajia.com: HTTPSConnectionPool(host='nbpajia.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000022CAFCBCED0>, 'Connection to nbpajia.com timed out. (connect timeout=5)'))
+cnbxghg.com: HTTPSConnectionPool(host='cnbxghg.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000022CAFCB0B90>, 'Connection to cnbxghg.com timed out. (connect timeout=5)'))
+cnbxghg.com: HTTPSConnectionPool(host='cnbxghg.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022CCE0D5310>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+vdvmufx.cn: 500 Server Error: Internal Server Error for url: https://vdvmufx.cn/
+vdvmufx.cn: 500 Server Error: Internal Server Error for url: https://vdvmufx.cn/
+jsdouji.com: HTTPSConnectionPool(host='jsdouji.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'jsdouji.com'. (_ssl.c:1006)")))
+jsdouji.com: HTTPSConnectionPool(host='jsdouji.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'jsdouji.com'. (_ssl.c:1006)")))
+huashengesf.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+xlgl0479.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+hezipp.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+yymilky.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+xiguadance.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+dc99f.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+suihenm.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+qygz720.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+yngglx.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+szyunqing.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+ywmaoxuan.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+exo466.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+dqlxsz.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+binggedaojia.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+gongsixz.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+hnshengshang.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+czsysmj.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+shmiji.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+jieyunqq.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+xyrongzi.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+winbond1.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+tsjmysmyxgs.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+taohe5.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+kikihoo.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+shlangdong.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+shangdimei.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+huaqiang588.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+mxkj188.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+shumachang.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+muyilanfang.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+yuetubaoche.com: HTTPSConnectionPool(host='yuetubaoche.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022CAC1B3510>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+huifengqu.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+sxcdlsm.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+hcrobot668.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+jrshangpiao.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+yuetubaoche.com: HTTPSConnectionPool(host='yuetubaoche.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022CB063B2D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+yuetubaoche.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+gthdfund.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+yzhuanyun.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+doumlll.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+jmwweyelash.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+abpuvw.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+gzhaiyao.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+doctor256.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+mengmababa.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+suzhouruge.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+zgcems.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+hzzhongmiao.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+szqianyun.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+nylyqcjy.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+holman-sjky.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+rqxunmeng.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+yuekanxs.com: HTTPSConnectionPool(host='yuekanxs.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000022CAC4D47D0>, 'Connection to yuekanxs.com timed out. (connect timeout=5)'))
+yuekanxs.com: HTTPSConnectionPool(host='yuekanxs.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000022CACC79E10>, 'Connection to yuekanxs.com timed out. (connect timeout=5)'))
+yuekanxs.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+jumdfd.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+ldb04.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+zgckb.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+fzleda.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+qnyrwem.cn: HTTPSConnectionPool(host='qnyrwem.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000022CAF371390>, 'Connection to qnyrwem.cn timed out. (connect timeout=5)'))
+qnyrwem.cn: HTTPSConnectionPool(host='qnyrwem.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022CACEB6A50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+qnyrwem.cn: Invalid control character at: line 1 column 4355425 (char 4355424)
+tzyestar1992.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+shuimin120.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+csnuocheng.com: HTTPSConnectionPool(host='csnuocheng.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000022CCE003DD0>, 'Connection to csnuocheng.com timed out. (connect timeout=5)'))
+beijing-time.org: Invalid control character at: line 1 column 4355425 (char 4355424)
+csnuocheng.com: HTTPSConnectionPool(host='csnuocheng.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000022CAF6EAD10>, 'Connection to csnuocheng.com timed out. (connect timeout=5)'))
+csnuocheng.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+jarlzy.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+youyongshifu.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+gupfvbx.com: HTTPSConnectionPool(host='gupfvbx.com', port=443): Read timed out. (read timeout=5)
+shsp666.com: HTTPSConnectionPool(host='shsp666.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022CACDFA450>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+hssjled.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+shsp666.com: HTTPSConnectionPool(host='shsp666.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022CAFCBCE10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+shsp666.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+ycjingzhi.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+hnxunyi.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+maimaitraffic.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+xin7jia.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+gupfvbx.com: HTTPSConnectionPool(host='gupfvbx.com', port=443): Read timed out. (read timeout=5)
+nbjwpos.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+yamkwl.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+gxlzwmdz.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+zhongzangmedical.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+cqyinci.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+cdxianqu.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+meiqicaiwu.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+gzd10000.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+led-screenworld.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+wgkx100.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+gstusen.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+yweijia.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+qianzhu4.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+hebeideanggd.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+shuishuchina.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+zjyudao.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+gupfvbx.com: HTTPSConnectionPool(host='gupfvbx.com', port=443): Read timed out. (read timeout=5)
+gupfvbx.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+qulinfeng.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+shoufangyun.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+jnjsw.com: HTTPSConnectionPool(host='jnjsw.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000022CACE63C90>: Failed to resolve 'jnjsw.com' ([Errno 11002] getaddrinfo failed)"))
+jnjsw.com: HTTPSConnectionPool(host='jnjsw.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000022CACE63B10>: Failed to resolve 'jnjsw.com' ([Errno 11002] getaddrinfo failed)"))
+jnjsw.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+jqpuzi.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+xmmlzx.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+woleqq.com: HTTPSConnectionPool(host='woleqq.com', port=443): Read timed out. (read timeout=5)
+tianzuobj.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+zgxmjd.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+cnmupei.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+gykjxxcjxrh.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+hnsangshenjiu.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+qz110.com: HTTPSConnectionPool(host='qz110.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000022CCA9D7510>, 'Connection to qz110.com timed out. (connect timeout=5)'))
+nb-hongyuantong.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+qz110.com: HTTPSConnectionPool(host='qz110.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000022CACDF9850>, 'Connection to qz110.com timed out. (connect timeout=5)'))
+qz110.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+partnersoho.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+chengyixingyou.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+zplixin.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+liuliucom.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+xt797.cn: HTTPConnectionPool(host='www.xt797.cn', port=80): Read timed out.
+cdxingchi.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+bzjhcjy.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+xt797.cn: HTTPConnectionPool(host='www.xt797.cn', port=80): Read timed out.
+wufumiaomu2.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+lpjclc.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+nmfx168.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+zzguansong.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+yankekeji.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+mesiyoxun.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+uxgonbk.cn: HTTPSConnectionPool(host='uxgonbk.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022CACD75110>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+uxgonbk.cn: HTTPSConnectionPool(host='uxgonbk.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022CB0061C50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+uxgonbk.cn: Invalid control character at: line 1 column 4355425 (char 4355424)
+aigeteasy.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+woleqq.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+xt797.cn: Invalid control character at: line 1 column 4355425 (char 4355424)
+hfls28.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+wendingshop.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+lnhongdi.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+nbcaizhai.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+yznuonuo.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+qqlyouxi.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+ynjlhb.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+sdkaier.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+qqy586.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+kakuzhushou.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+alrlaxn.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+sssrsr.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+teacwt.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+shenzhen-nanjing.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+nydpw77.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+zhenmei88.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+khbluebay.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+mengxiangprint.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+kmbone.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+xzdianping.com: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+xzdianping.com: HTTPSConnectionPool(host='xzdianping.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022CB1351890>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+xzdianping.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+czyhwhcm.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+anwendianli.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+yangyashebei.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+maijilun.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+hanxuejiaoyu.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+yufeiwenti.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+rzt-ink.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+haosouwangluo.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+jcneng.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+haihonglu.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+jygscw.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+modesida.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+zgluchuang.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+mydshang.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+hbhairuo.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+sxsbm.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+jxshangbo.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+manilacp.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+szlvzhan.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+younirl.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+dehankj.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+allstar-era.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+gdchuangneng.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+ycjh2019.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+jnxzqy.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+cicte-expo.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+huamaofang.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+xaahh.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+xinxinbeizeng.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+cdzhengdu.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+laihaohuo.com: HTTPSConnectionPool(host='laihaohuo.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'laihaohuo.com'. (_ssl.c:1006)")))
+laihaohuo.com: HTTPSConnectionPool(host='laihaohuo.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'laihaohuo.com'. (_ssl.c:1006)")))
+laihaohuo.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+shengshushu.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+fzyxjd.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+zjtongya.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+qixun1688.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+dingyuejm.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+yongchengshop.cn: HTTPSConnectionPool(host='yongchengshop.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022CB068CCD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+yanglaoyanglao.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+yongchengshop.cn: HTTPSConnectionPool(host='yongchengshop.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022CAFCC0610>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+yongchengshop.cn: Invalid control character at: line 1 column 4355425 (char 4355424)
+jinzunj.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+hexsen.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+zhaobaozang.com: HTTPSConnectionPool(host='zhaobaozang.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022CAF83F550>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+zhaobaozang.com: HTTPSConnectionPool(host='zhaobaozang.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022CCE021C50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+zhaobaozang.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+wei-kelian.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+qianfujiaoyu.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+kangxingsuye.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+bjshenbang.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+qhwanqi.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+gdyya.cn: Invalid control character at: line 1 column 4355425 (char 4355424)
+didudaiyun.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+yancong1.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+sadition.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+bkt-bio-tech.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+qkpdlb.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+jz535.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+oushengmingyin.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+abyqiche.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+lejiaapp.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+zhongyankeji.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+hfzzbsw.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+cnyudao.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+merlinforest.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+huikunshang.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+hyqcns.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+qitiquan.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+weishanhuo.com: Invalid control character at: line 1 column 4355425 (char 4355424)
+fghljd.com: Invalid control character at: line 1 column 4355425 (char 4355424)

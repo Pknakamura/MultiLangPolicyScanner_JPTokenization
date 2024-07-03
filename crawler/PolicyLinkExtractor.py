@@ -170,7 +170,7 @@ def process_single_domain(domain, country, max_depth):
                 with open("error_logging/japan_error_log.txt", "a") as f:
                     f.write(f"{domain}: {e}\n")
 
-    db = TinyDB('websites_by_language.json')
+    db = TinyDB('websites_by_language2.json')
     table = db.table('policy_links')
 
 
