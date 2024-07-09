@@ -14,18 +14,23 @@ cymem==2.0.8
 debugpy==1.8.2
 decorator==5.1.1
 executing==2.0.1
+fastlangid==1.0.11
+fasttext==0.9.3
 fonttools==4.53.0
 idna==3.7
 ipykernel==6.29.5
 ipython==8.26.0
+ja-core-news-lg @ https://github.com/explosion/spacy-models/releases/download/ja_core_news_lg-3.7.0/ja_core_news_lg-3.7.0-py3-none-any.whl#sha256=f08eecb4d40523045c9478ce59a67564fd71edd215f32c076fa91dc1f05cc7fd
 ja-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/ja_core_news_sm-3.7.0/ja_core_news_sm-3.7.0-py3-none-any.whl#sha256=1191e5bbffcc90670146616c274a64850e54d12070bc5846e78a094f2f6fcfca
 jedi==0.19.1
 Jinja2==3.1.4
 jupyter_client==8.6.2
 jupyter_core==5.7.2
 kiwisolver==1.4.5
+ko-core-news-lg @ https://github.com/explosion/spacy-models/releases/download/ko_core_news_lg-3.7.0/ko_core_news_lg-3.7.0-py3-none-any.whl#sha256=125f607b91778c97bd5be65dbcb5b14c0c1231c1f8998d1a652ed396c03c6945
 ko-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/ko_core_news_sm-3.7.0/ko_core_news_sm-3.7.0-py3-none-any.whl#sha256=b1a15a4987a8f9835031a6bd2fe57fe158097ab5304221c41df1bd4aab8cf458
 langcodes==3.4.0
+langdetect==1.0.9
 language_data==1.2.0
 marisa-trie==1.2.0
 markdown-it-py==3.0.0
@@ -47,6 +52,7 @@ prompt_toolkit==3.0.47
 psutil==6.0.0
 ptyprocess==0.7.0
 pure-eval==0.2.2
+pybind11==2.13.1
 pydantic==2.8.0
 pydantic_core==2.20.0
 Pygments==2.18.0
@@ -82,4 +88,5 @@ wcwidth==0.2.13
 weasel==0.4.1
 wordcloud==1.9.3
 wrapt==1.16.0
+zh-core-web-lg @ https://github.com/explosion/spacy-models/releases/download/zh_core_web_lg-3.7.0/zh_core_web_lg-3.7.0-py3-none-any.whl#sha256=6bfd1796788dc27c0f5e0cc43374eb96abe0b4f0ec1b29f19f5782051216c556
 zh-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/zh_core_web_sm-3.7.0/zh_core_web_sm-3.7.0-py3-none-any.whl#sha256=f51075665749e07406d629d1055ce5a68635fae6ab3c34257ee798c62b4fc431
