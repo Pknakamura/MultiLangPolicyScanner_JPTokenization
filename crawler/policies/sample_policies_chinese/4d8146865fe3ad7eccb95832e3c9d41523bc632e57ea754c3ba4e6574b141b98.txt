@@ -1,0 +1,129 @@
+使用条款和隐私政策
+使用须知：
+
+
+在使用前你应该知晓下面的电话号码短信内容所有人都可以查看
+请不要用这个电话号码接收重要内容
+本网站提供的电话号码只用于注册一些网站，防止被骚扰
+他人可以通过此电话号码找回密码，所以注册时应注意个人信息
+由此造成经济损失概不负责
+在使用时即代表以上条款已同意
+Terms of Use
+Before using, you should know the following phone number is shared number. The content of the message can be viewed by everyone.
+
+Please do not use these phone numbers to receive important content.
+
+These phone number should not be used for any sensitive transactions And any illegal use and any terrorist uses.
+
+These phone numbers provided on this APP is only used to register some APPs to prevent being harassed.
+
+Others can retrieve the password through this phone number, so you should pay attention to your personal information when registering.
+
+We are not responsible for the resulting economic losses.
+
+When used, it means that the above terms have been agreed.
+
+Privacy Policy & Cookies
+The information below is intended to inform the user about the placement, use and administration of "Cookies" used by the temporary-phone-number.com site. There are also some helpful links to this topic.
+
+Please read carefully the following information:
+
+This website uses its own cookies and third parties to provide visitors with a better navigation experience and services tailored to the needs and interests of each. These cookies may come from the following third parties: Google Analytics, Google Adsense, etc. The full list of cookies from third parties can be found in the Third Party Cookies section below. In what we call "web 2.0," "cookies" play an important role in facilitating the access and delivery of multiple services the user enjoys on the Internet, such as:
+
+- Customize settings such as the language in which the site is viewed.
+
+- Cookies provide site owners with valuable feedback on how their sites are used by users so they can make them more effective and more user-friendly.
+
+- Allow multimedia or other applications from other sites to be included in a particular site to create a more valuable, useful, and enjoyable navigation experience.
+
+- Improve the efficiency of online advertising.
+
+- These ads may use cookies to provide a customized ad experience for each visitor.
+
+What is a "Cookie" ?
+An "Internet Cookie" (also known as "cookie browser" or "HTTP cookie" or simply "cookie") is a small file of letters and numbers that is stored on your computer, mobile terminal or other equipment of a user on which the Internet is accessed. The cookie is installed through a web browser's browser (eg Internet Explorer, Chrome, Mozilla Firefox) and is completely "passive" (it does not contain software, viruses or spyware and can not access the information on the hard drive user drive).
+
+A cookie consists of two parts: the name and the content or the value of the cookie. Furthermore, the duration of a cookie is determined; technically, only the webserver that sent the cookie can access it again when a user returns to the website associated with that webserver.
+
+Cookies themselves do not require personal information to be used and, in most cases, do not personally identify Internet users.
+There are 2 large categories of cookies:
+
+- Session cookies - are temporarily stored in the web browser's cookie folder so that can save them until the user exits the site or closes the browser window (for example, when logging in / out of an account webmail or social networking).
+
+- Persistent Cookies - are stored on the hard drive of a computer or device (and generally depends on the cookie's default life). Persistent cookies include those placed on a website other than the one the user is currently visiting - known as 'third party cookies' - which can be used anonymously to store a user's interests so as to deliver advertising as relevant to users.
+
+What are the advantages of cookies?
+A cookie contains information linking a web browser (user) and a specific web-server (website). If a browser accesses that web-server again, it can read the already stored information and react accordingly. Cookies provide users with a good browsing experience and support the efforts of many websites to provide user-friendly services: ex - online privacy preferences, site language options or relevant advertising.
+
+What is the lifetime of a cookie?
+Cookies are managed by web servers. The life of a cookie may vary significantly, depending on the purpose for which it is placed. Some cookies are used exclusively for one session (session cookies) and are no longer retained once the user has left the website and some cookies are retained and re-used whenever the user returns to that site ('cookie- permanent '). However, cookies can be deleted by a user at any time through browser settings.
+
+What are cookies placed by third parties?
+Certain sections of content on some sites may be provided through third parties (eg advertisement). These third parties may also place cookies through the site and they are called "third party cookies" because they are not placed by the owner of that website. Third-party vendors must also comply with the applicable law and the site's privacy policies.
+
+How are cookies used by this site?
+A visit to this site may place cookies for purposes of:
+
+- Site performance cookies
+
+- Visitor analysis cookies
+
+- Cookies for advertising
+
+Performance cookies
+
+This type of cookie retains the user"s preferences on this site, so they no longer need to be set on every site visit.
+
+Cookies for Visitor Analysis
+
+Whenever a user visits this site, third-party analytics software generates a user"s analysis cookie. This cookie tells us if you have visited this site so far. The browser will tell us if you have this cookie, and if not, we will generate one. It allows the monitoring of the unique users who visit us and how often they do it. As long as you are not registered on this site, this cookie can not be used to identify individuals, they are used for statistical purposes only. If you are registered, we may also know the details you have provided us, such as your e-mail address and username - subject to the confidentiality and provisions of the Terms and Conditions, the Privacy Policy and the legislation force with regard to the protection of personal data.
+
+Cookies for advertising
+
+These cookies let us know whether or not you have viewed an online ad, what is its type, and how long it has been since you saw the ad message. These cookies are also used to target online advertising. We may also use 3rd-party cookies for better advertising targeting, for example, showing holiday ads if the user has recently visited an article on vacancies. These cookies are anonymous, they store information about the viewed content, not the users. We also set up anonymous cookies through other sites that we advertise. By accepting them, we can use them to recognize you as a visitor to that site if you later visit our site, we will be able to deliver advertising based on this information.
+
+Advertiser cookies
+
+The advertising you find on this site belongs to third parties. Some of these parties use their own anonymous cookies to analyze how many people have been exposed to an ad, or to see how many people have been exposed multiple times to the same ad. The companies that generate these cookies have their own privacy policies and this site does not have access to read or write these cookies. Third-party cookies can be used to show your target advertising on other sites, based on your browsing on this site.
+
+Other cookies of third parties
+
+On some pages, third parties can set their own anonymous cookies in order to track the success of an application, or to customize an application. Because of its use, this site can not access these cookies, just as third parties can not access cookies owned by this site. For example, when you share an article using the social network button on this site, that social network will record your activity.
+
+The detailed list of all cookies used by the temporary-phone-number.com.info website in its own name and on behalf of third parties is:
+
+Own cookies - first-party cookies (temporary-phone-number.com.info)
+
+- cookieconsent_dismissed - First Party - Duration: 12 months - Role: Used to identify users who have seen cookies on the site
+
+Third party cookies - third party cookies (cookies from third parties)
+
+- __cfduid - Cloudflare - Duration: 12 months - Role: Is used to identify individual clients behind a shared IP address and apply security settings on a per-client basis. This cookie is strictly necessary for Cloudflare's security features and cannot be turned off.
+
+- _ga - Google Analytics - Duration: 2 years - Role: Retains anonymous information about user interaction with the site (example: time and date of interaction with various marketing materials or pages that brought the user to the site)
+
+- _gid - Google Analytics - Duration: 24 hours - Role: Used to distinguish users.
+
+- _gat - Google Analytics - Duration: 1 minute - Role: This cookie does not store any user information; it's just used to limit the number of requests that have to be made to doubleclick.net
+
+- 1P_JAR - Google - Duration: 30 days - Role: Google advertising cookie used for user tracking and ad targeting purposes.
+
+- NID - Google - Duration: 6 months - Role: Retrieve information about user interactions with Google services such as Google Maps, Google Calendar, Google+, etc.
+
+- S - Google - Duration: 24 hours - Role: Retrieve information about user interactions with Google services such as Google Docs
+
+- DSID - Doubleclick.net - Duration: 2 weeks - Role: This cookie is used for re-targeting, optimisation, reporting and attribution of online adverts.
+
+- IDE - Doubleclick.net - Duration: 13 months - Role: This cookie is used for re-targeting, optimisation, reporting and attribution of online adverts.
+
+What type of information is stored and accessed through cookies?
+Cookies keep information in a small text file that allows a website to recognize a browser. The Webserver will recognize the browser until the cookie expires or is deleted. The cookie stores important information that enhances Internet browsing experience (for example, the language settings in which a site is accessed).
+
+How to control and delete cookies?
+Disabling and refusing to receive cookies can make some sites unfeasible or difficult to visit and use. Also, refusing to accept cookies does not mean you will not get / see online advertising anymore.
+
+It is possible to set up the browser so that these cookies are no longer supported or you can set the browser to accept cookies from a particular site.
+
+All modern browsers offer the ability to change cookie settings. These settings are usually found in your browser's "options" or "preferences" menu.
+
+To understand these settings, the following links may be useful, otherwise you can use the browser's "help" option for more details.

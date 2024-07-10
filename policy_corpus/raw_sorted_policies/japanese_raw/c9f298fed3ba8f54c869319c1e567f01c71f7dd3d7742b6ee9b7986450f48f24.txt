@@ -1,0 +1,71 @@
+Windows DNSサーバーの脆弱性情報が公開されました（CVE-2024-26221、他6件） DNS関連技術情報のトップへ戻る ---------------------------------------------------------------------
+■Windows DNSサーバーの脆弱性情報が公開されました（CVE-2024-26221、他6件）
+
+                                株式会社日本レジストリサービス（JPRS）
+                                            初版作成 2024/04/12（Fri）
+---------------------------------------------------------------------
+
+▼概要
+
+  2024年4月9日（米国時間）、Windows DNSサーバーにおいて、リモートでコー
+  ドが実行される7件の脆弱性が公開されました。併せて、当該脆弱性を修正
+  したバージョンも公開されています。
+
+  詳細につきましては、以下の情報をご参照ください。
+
+▼参考リンク
+
+  Windows DNS Server Remote Code Execution Vulnerability
+  < https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2024-26221 >
+
+  Windows DNS サーバーのリモートでコードが実行される脆弱性
+  < https://msrc.microsoft.com/update-guide/ja-JP/vulnerability/CVE-2024-26221 >
+
+  Windows DNS Server Remote Code Execution Vulnerability
+  < https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2024-26222 >
+
+  Windows DNS サーバーのリモートでコードが実行される脆弱性
+  < https://msrc.microsoft.com/update-guide/ja-JP/vulnerability/CVE-2024-26222 >
+
+  Windows DNS Server Remote Code Execution Vulnerability
+  < https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2024-26223 >
+
+  Windows DNS サーバーのリモートでコードが実行される脆弱性
+  < https://msrc.microsoft.com/update-guide/ja-JP/vulnerability/CVE-2024-26223 >
+
+  Windows DNS Server Remote Code Execution Vulnerability
+  < https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2024-26224 >
+
+  Windows DNS サーバーのリモートでコードが実行される脆弱性
+  < https://msrc.microsoft.com/update-guide/ja-JP/vulnerability/CVE-2024-26224 >
+
+  Windows DNS Server Remote Code Execution Vulnerability
+  < https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2024-26227 >
+
+  Windows DNS サーバーのリモートでコードが実行される脆弱性
+  < https://msrc.microsoft.com/update-guide/ja-JP/vulnerability/CVE-2024-26227 >
+
+  Windows DNS Server Remote Code Execution Vulnerability
+  < https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2024-26231 >
+
+  Windows DNS サーバーのリモートでコードが実行される脆弱性
+  < https://msrc.microsoft.com/update-guide/ja-JP/vulnerability/CVE-2024-26231 >
+
+  Windows DNS Server Remote Code Execution Vulnerability
+  < https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2024-26233 >
+
+  Windows DNS サーバーのリモートでコードが実行される脆弱性
+  < https://msrc.microsoft.com/update-guide/ja-JP/vulnerability/CVE-2024-26233 >
+
+  CVE Record | CVE
+  < https://www.cve.org/CVERecord?id=CVE-2024-26221 >
+  < https://www.cve.org/CVERecord?id=CVE-2024-26222 >
+  < https://www.cve.org/CVERecord?id=CVE-2024-26223 >
+  < https://www.cve.org/CVERecord?id=CVE-2024-26224 >
+  < https://www.cve.org/CVERecord?id=CVE-2024-26227 >
+  < https://www.cve.org/CVERecord?id=CVE-2024-26231 >
+  < https://www.cve.org/CVERecord?id=CVE-2024-26233 >
+
+---------------------------------------------------------------------
+▼更新履歴
+  2024/04/12 11:00 初版作成 株式会社日本レジストリサービス　Copyright©2001-2024 Japan Registry Services Co., Ltd.

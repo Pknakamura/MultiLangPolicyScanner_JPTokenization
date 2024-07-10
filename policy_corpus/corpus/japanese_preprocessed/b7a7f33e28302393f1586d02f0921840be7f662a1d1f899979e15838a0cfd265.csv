@@ -1,0 +1,5 @@
+Surface,Normalized,Reading,Dictionary,POS1,POS2,POS3,POS4,Conj_Type,Conj,OOV,B_Split,A_Split
+ワーナー,ワーナー,ワーナー,ワーナー,名詞,固有名詞,一般,*,*,*,False,*,*
+公式,公式,コウシキ,公式,名詞,普通名詞,形状詞可能,*,*,*,False,*,*
+プライバシー,プライバシー,プライバシー,プライバシー,名詞,普通名詞,一般,*,*,*,False,*,*
+方針,方針,ホウシン,方針,名詞,普通名詞,一般,*,*,*,False,*,*

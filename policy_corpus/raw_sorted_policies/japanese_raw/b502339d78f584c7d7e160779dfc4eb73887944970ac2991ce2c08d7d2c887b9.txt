@@ -1,0 +1,30 @@
+Unboundの脆弱性情報が公開されました（CVE-2024-1931） DNS関連技術情報のトップへ戻る ---------------------------------------------------------------------
+■Unboundの脆弱性情報が公開されました（CVE-2024-1931）
+
+                                株式会社日本レジストリサービス（JPRS）
+                                            初版作成 2024/03/12（Tue）
+---------------------------------------------------------------------
+
+▼概要
+
+  2024年3月7日（中央ヨーロッパ時間）、フルリゾルバー（キャッシュDNSサー
+  バー）Unboundにおいて、拡張DNSエラー（EDE）の内部処理で無限ループが
+  発生し、サービス不能（DoS）攻撃が可能となる脆弱性が公開されました。
+  併せて、当該脆弱性を修正したバージョンも公開されています。
+
+  詳細につきましては、以下の情報をご参照ください。
+
+▼参考リンク
+
+  NLnet Labs - News - Unbound 1.19.2 releaseds
+  < https://nlnetlabs.nl/news/2024/Mar/07/unbound-1.19.2-released/ >
+
+  Denial of service when trimming EDE text on positive replies
+  < https://nlnetlabs.nl/downloads/unbound/CVE-2024-1931.txt >
+
+  CVE Record | CVE
+  < https://www.cve.org/CVERecord?id=CVE-2024-1931 >
+
+---------------------------------------------------------------------
+▼更新履歴
+  2024/03/12 11:00 初版作成 株式会社日本レジストリサービス　Copyright©2001-2024 Japan Registry Services Co., Ltd.

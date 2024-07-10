@@ -1,0 +1,5 @@
+Surface,Normalized,Reading,Dictionary,POS1,POS2,POS3,POS4,Conj_Type,Conj,OOV,B_Split,A_Split
+テラー,テラー,テラー,テラー,名詞,普通名詞,一般,*,*,*,False,*,*
+ノベル,ノベル,ノベル,ノベル,名詞,普通名詞,一般,*,*,*,False,*,*
+Teller,テラー,テラー,teller,名詞,普通名詞,一般,*,*,*,False,*,*
+Novel,ノベル,ノベル,novel,名詞,普通名詞,一般,*,*,*,False,*,*

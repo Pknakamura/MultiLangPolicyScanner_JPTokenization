@@ -1,0 +1,80 @@
+COOKIE 政策
+2024 年 4 月更新 归档版本
+此翻译仅供参考。如有偏差，以英文版本为准。
+
+Synology 网站和某些在线服务可能会使用 Cookie 文件，这种文件将会放置在您的设备上，用于收集数据。如果您选择让我们使用 Cookie，则我们会使用 Cookie 收集的信息来更好地了解您浏览网站的方式并评估您的参与行为，以记住各种自定义设置和偏好设置（如语言选项）。所有 Cookie 都将在您访问 Synology 网站的 540 天后过期。选择让我们使用 Cookie 之后，您可以通过修改浏览器中的设置来禁用 Cookie。如果禁用了 Cookie，某些依赖于 Cookie 的功能可能无法正常运行。
+
+如果我们通过 Cookie 收集的任何信息被视为个人数据，则我们的隐私政策适用于此类数据的收集和使用。请仔细查看本 Cookie 政策，以及我们的隐私政策。
+
+以下类别由 ICC UK Cookie 指南定义。
+
+类别 1.必要 Cookie
+这类 Cookie 是必不可缺的，它们能让您尽情浏览网站并使用其功能，如访问网站的安全区域。缺少这类 Cookie，无法提供您所需的付款服务或帐户授权等服务。无法禁用此类别的 Cookie。下表提供了有关这类 Cookie 的更多信息。
+
+Cookie 名称	来源	目的
+XSRF-TOKEN/
+_csrf_token	Synology, Inc.	这类 Cookie 用于帮助实现网站安全，防范跨网站请求伪造攻击。
+synodemo_session
+rma_session/ aravel_session/ synology_community_session
+event_session/ payment_session/ project_management_session/ recruiting_system_session/ PHPSESSID/ synology_accounts_session/ payment_session	Synology, Inc.	这类 Cookie 用于保持 Synology 网络服务器与您的计算机之间的连接状态，使您可以在 Synology 网站上的网页之间移动。
+__stripe_sid/ _stripe_mid	Stripe, Inc.	这类 Cookie 用于处理付款和帮助进行欺诈检测。
+backup_project_id/
+backup_token/
+fullname/
+stoken/
+a_id_token/
+a_oauth_access_token/
+_last_region/
+syno_confirm_[version]_answer/
+cookielawinfo-checkbox-performance/
+cookielawinfo-checkbox-targeting/
+cookielawinfo-checkbox-functionality/
+cookielawinfo-checkbox-necessary/
+viewed_cookie_policy/
+CookieLawInfoConsent	Synology, Inc.	这类 Cookie 用于记住访客在 Synology 网站上的身份和偏好。
+NID	Google LLC	这类 Cookie 由 Google reCAPTCHA 设置，它在您查看包含表单的页面时用于垃圾邮件保护。
+类别 2.性能 Cookie
+这类 Cookie 会收集访客如何使用网站的信息，例如访客常访问的页面，以及是否从网页收到错误信息。这类 Cookie 不会收集身份识别信息。这类 Cookie 收集的信息均为汇总信息，也是匿名信息。仅用于帮助我们改善网站体验。可以通过更改 Cookie 偏好来禁用此类别的 Cookie。下表提供了有关这类 Cookie 的更多信息。
+
+Cookie 名称	来源	目的
+_ga/ _gtm/ _gid/
+_gat_UA-nnnnnnn-nn/
+_ga_xxxxxxxxxx	Google LLC	这类 Cookie 用于收集有关访客如何使用 Synology 网站的信息。我们通过收集匿名信息（例如网站访客人数），使用这些信息帮助我们改进网站
+mf_[session]/ mf_user/
+Mouseflow	Mouseflow	此网站使用第三方分析工具 Mouseflow 跟踪页面内容以及单击/点按、移动、滚动和击键活动。我们使用这些信息帮助我们改进网站上的用户体验。您可以在 https://mouseflow.com/opt-out/ 上选择退出。
+_clck/ _clsk/ CLID/ ANONCHK/ MR/ MUID/ SM	Microsoft Clarity	我们与 Microsoft Clarity 合作，通过行为指标、热图和会话重播，来了解您如何使用我们的网站并与之交互。我们使用 Cookie 和其他跟踪技术来获取网站使用数据，以确定产品/服务和在线活动的受欢迎程度。此外，我们还会将这些信息用于网站优化。有关 Microsoft 如何收集和使用您的数据的更多信息，请访问 Microsoft 隐私政策。
+类别 3.功能 Cookie
+这类 Cookie 可让网站记住用户所做的选择（如用户名、语言或所在地区），从而提供更强大、更个性化的功能。这类 Cookie 还能用来记住用户对网页所做的自定义更改。还可以用于跟踪用户已看过的通知，以避免重复。这类 Cookie 收集的信息不会识别用户的个人身份，也无法跟踪用户在其他网站上的浏览活动。可以通过更改 Cookie 偏好来禁用此类别的 Cookie。下表提供了有关这类 Cookie 的更多信息。
+
+Cookie 名称	来源	目的
+language/
+Synology_community_language	Synology, Inc.	这类 Cookie 用于记住您在 Synology 网站上的语言偏好。
+_LiveChat	LiveChat, Inc.	这类 Cookie 用于在使用 LiveChat 时存储用户的个人自定义。
+类别 4.定向 Cookie 或广告 Cookie
+这类 Cookie 用于提供与您和您的兴趣更加相关的广告。它们还用于限制您看到广告的次数，以及帮助评估广告活动的有效性。它们通常由具有网站运营商权限的广告网络投放。它们会记住您访问过某个网站，此信息会与其他组织（如广告商）共享。通常，针对性或广告 Cookie 会链接到其他组织提供的网站功能。例如，在我们的重新营销或重新定位活动中，我们会在您访问过我们的网站或在其中执行操作之后向您提供针对性广告。在技术执行方面，重新营销是使用 JavaScript 标记在浏览器中放置 Cookie 的过程。Cookie 随后会通知重新营销平台，以根据您在我们的网站或应用程序中涉及或搜索的页面或产品，通过广告交换来提供特定显示广告。可以通过更改 Cookie 偏好来禁用此类别的 Cookie。您还可以使用 DAA 的选择退出平台拒绝收集和使用信息以便为您提供基于兴趣的广告。下表提供了有关这类 Cookie 的更多信息。
+
+Cookie 名称	来源	目的
+bcookie	LinkedIn Corporation	这类 Cookie 用于向访客显示相关广告。
+_fbq	Facebook	这类 Cookie 用于向访客显示相关广告。
+_uetsid
+_uetvid	Microsoft	这类 Cookie 用于向访客显示相关广告。
+IDE/ _gcl_au	Google LLC	这类 Cookie 用于向访客显示相关广告。
+_rdt_uuid	Reddit Inc.	这类 Cookie 用于向访客显示相关广告。
+wcs_bt	Naver Corporation	这类 Cookie 用于向访客显示相关广告。
+twq	Twitter, Inc.	这类 Cookie 用于向访客显示相关广告。
+_adroll	NextRoll Inc.	这类 Cookie 用于：
+测量和分析我们网站上的流量和浏览活动；
+在第三方网站上向您显示我们的产品和/或服务的广告；
+测量和分析我们广告活动的表现。
+如果您居住在美国加利福尼亚州，则 NextRoll 的 CCPA 部分适用于您。
+auid/ obuid/ outbrain_click_id/ outbrain_cid_fetch/ obca_vid/ obca_sid/ obca_data	Outbrain Inc.	这类 Cookie 用于向访客显示相关广告。
+_fw_crm_v/ first_session	Freshworks Inc.	这类 Cookie 用于向访客显示相关广告。
+如何拒绝使用 Cookie？
+如果不想在设备上存储 Cookie，您可以调整浏览器设置，以拒绝所有或部分 Cookie 设置，并在添加新的 Cookie 时收到相关提示。有关如何执行此操作的更多信息，请参阅浏览器帮助文档。请注意，如果使用浏览器设置阻止了所有 Cookie（包括必需的 Cookie），您可能无法访问或使用我们网站的全部或部分功能。
+
+如果想要移除之前存储的 Cookie，您随时可以手动删除 Cookie。但这不影响网站在您的设备上继续放置 Cookie，除非您按如上所述调整浏览器设置。
+
+有关开发用户配置文件以及使用定位和广告 Cookie 的更多信息，请参阅 www.youronlinechoices.eu（欧洲用户）或 www.aboutads.info/choices（美国用户）。
+
+联系我们
+如果您对我们使用 Cookie 有任何疑问，可以在我们的隐私政策中找到十分相关的联系详细信息。

@@ -1,0 +1,12 @@
+Surface,Normalized,Reading,Dictionary,POS1,POS2,POS3,POS4,Conj_Type,Conj,OOV,B_Split,A_Split
+リクルート,リクルート,リクルート,リクルート,名詞,普通名詞,サ変可能,*,*,*,False,*,*
+プライバシー,プライバシー,プライバシー,プライバシー,名詞,普通名詞,一般,*,*,*,False,*,*
+センター,センター,センター,センター,名詞,普通名詞,一般,*,*,*,False,*,*
+ヘルプ,ヘルプ,ヘルプ,ヘルプ,名詞,普通名詞,一般,*,*,*,False,*,*
+Loading,ローディング,ローディング,loading,名詞,普通名詞,一般,*,*,*,False,*,*
+Sorry,ソーリー,ソーリー,sorry,名詞,普通名詞,一般,*,*,*,False,*,*
+to,to,ツー,to,名詞,普通名詞,一般,*,*,*,False,*,*
+interrupt,インターラプト,インターラプト,interrupt,名詞,普通名詞,一般,*,*,*,False,*,*
+CSS,CSS,シーエスエス,CSS,名詞,固有名詞,人名,一般,*,*,False,*,*
+Error,エラー,エラー,error,名詞,普通名詞,一般,*,*,*,False,*,*
+Refresh,リフレッシュ,リフレッシュ,refresh,名詞,普通名詞,サ変可能,*,*,*,False,*,*

@@ -1,0 +1,31 @@
+Unboundの脆弱性情報が公開されました（CVE-2024-33655） DNS関連技術情報のトップへ戻る ---------------------------------------------------------------------
+■Unboundの脆弱性情報が公開されました（CVE-2024-33655）
+
+                                株式会社日本レジストリサービス（JPRS）
+                                            初版作成 2024/05/13（Mon）
+---------------------------------------------------------------------
+
+▼概要
+
+  2024年5月8日（中央ヨーロッパ夏時間）、フルリゾルバー（キャッシュDNS
+  サーバー）Unboundにおいて、外部からの操作によりDoS攻撃に加担してしま
+  う脆弱性が公開されました。併せて、当該脆弱性を修正したバージョンも公
+  開されています。
+
+  詳細につきましては、以下の情報をご参照ください。
+
+▼参考リンク
+
+  NLnet Labs - News - Unbound 1.20.0 released
+  < https://www.nlnetlabs.nl/news/2024/May/08/unbound-1.20.0-released/ >
+
+  A novel pulsing DoS attack named "DNSBomb" has been discovered to
+  affect various DNS resolving software.
+  < https://nlnetlabs.nl/downloads/unbound/CVE-2024-33655.txt >
+
+  CVE Record | CVE
+  < https://www.cve.org/CVERecord?id=CVE-2024-33655 >
+
+---------------------------------------------------------------------
+▼更新履歴
+  2024/05/13 11:00 初版作成 株式会社日本レジストリサービス　Copyright©2001-2024 Japan Registry Services Co., Ltd.

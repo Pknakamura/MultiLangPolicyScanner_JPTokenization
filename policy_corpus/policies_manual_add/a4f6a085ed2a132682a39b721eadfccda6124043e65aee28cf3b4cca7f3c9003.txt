@@ -1,0 +1,13 @@
+开源协议
+下载助手仅在浏览器端运行，遵循 AGPL-3.0 (opens new window)开源协议，所使用的 API 均来自网盘开放平台 及 Github，仅做学习研究使用，禁止用于非法获利和商业用途，如产生法律纠纷与原作者无关！
+
+🚨 注意
+
+下载或使用源代码表示您已同意并遵守 AGPL v3 协议的全部内容。
+
+#参考文档
+百度网盘开放平台(opens new window)
+Github-baidupcsapi(opens new window)
+Github-aliyunpan(opens new window)
+Github-cloud189(opens new window)
+迅雷开放平台

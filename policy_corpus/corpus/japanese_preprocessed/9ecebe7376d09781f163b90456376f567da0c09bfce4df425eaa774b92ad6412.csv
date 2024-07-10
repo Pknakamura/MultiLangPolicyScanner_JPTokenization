@@ -1,0 +1,18 @@
+Surface,Normalized,Reading,Dictionary,POS1,POS2,POS3,POS4,Conj_Type,Conj,OOV,B_Split,A_Split
+The page,THE PAGE,ザページ,THE PAGE,名詞,固有名詞,一般,*,*,*,False,*,*
+you,YOU,ユウ,YOU,名詞,固有名詞,人名,一般,*,*,False,*,*
+were,ワー,ワー,were,名詞,普通名詞,一般,*,*,*,False,*,*
+looking,looking,looking,looking,名詞,普通名詞,一般,*,*,*,True,*,*
+for,フォー,フォー,for,名詞,普通名詞,一般,*,*,*,False,*,*
+doesn,doesn,doesn,doesn,名詞,普通名詞,一般,*,*,*,True,*,*
+t,t,トン,t,名詞,普通名詞,助数詞可能,*,*,*,False,*,*
+exist,exist,exist,exist,名詞,普通名詞,一般,*,*,*,True,*,*
+404,404,ヨンレイヨン,404,名詞,数詞,*,*,*,*,True,*,*
+500,500,ゴレイレイ,500,名詞,数詞,*,*,*,*,True,*,*
+サーバー,サーバー,サーバー,サーバー,名詞,普通名詞,一般,*,*,*,False,*,*
+ダウン,ダウン,ダウン,ダウン,名詞,普通名詞,サ変可能,*,*,*,False,*,*
+し,為る,シ,する,動詞,非自立可能,*,*,サ行変格,連用形-一般,False,*,*
+い,居る,イ,いる,動詞,非自立可能,*,*,上一段-ア行,連用形-一般,False,*,*
+。,。,。,。,補助記号,句点,*,*,*,*,False,*,*
+ホーム,ホーム,ホーム,ホーム,名詞,普通名詞,一般,*,*,*,False,*,*
+戻る,戻る,モドル,戻る,動詞,一般,*,*,五段-ラ行,終止形-一般,False,*,*

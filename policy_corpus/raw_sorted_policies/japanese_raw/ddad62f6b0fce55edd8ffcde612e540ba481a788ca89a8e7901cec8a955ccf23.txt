@@ -1,0 +1,35 @@
+Unboundの脆弱性情報が公開されました（CVE-2023-50387、CVE-2023-50868） DNS関連技術情報のトップへ戻る ---------------------------------------------------------------------
+■Unboundの脆弱性情報が公開されました（CVE-2023-50387、CVE-2023-50868）
+
+                                株式会社日本レジストリサービス（JPRS）
+                                            初版作成 2024/02/16（Fri）
+---------------------------------------------------------------------
+
+▼概要
+
+  2024年2月13日（中央ヨーロッパ時間）、フルリゾルバー（キャッシュDNSサー
+  バー）Unboundにおいて、DNSSEC検証の際に過剰なCPU負荷が誘発される複数
+  の脆弱性情報が公開されました。併せて、当該脆弱性を修正したバージョン
+  も公開されています。
+
+  詳細につきましては、以下の情報をご参照ください。
+
+▼参考リンク
+
+  NLnet Labs - News - Unbound 1.19.1 released
+  < https://nlnetlabs.nl/news/2024/Feb/13/unbound-1.19.1-released/ >
+
+  Two DNSSEC validation vulnerabilities have been discovered in
+  Unbound: CVE-2023-50387 (referred here as the KeyTrap vulnerability)
+  and CVE-2023-50868 (referred here as the NSEC3 vulnerability).
+  < https://nlnetlabs.nl/downloads/unbound/CVE-2023-50387_CVE-2023-50868.txt >
+
+  CVE Record | CVE
+  < https://www.cve.org/CVERecord?id=CVE-2023-50387 >
+
+  CVE Record | CVE
+  < https://www.cve.org/CVERecord?id=CVE-2023-50868 >
+
+---------------------------------------------------------------------
+▼更新履歴
+  2024/02/16 11:00 初版作成 株式会社日本レジストリサービス　Copyright©2001-2024 Japan Registry Services Co., Ltd.

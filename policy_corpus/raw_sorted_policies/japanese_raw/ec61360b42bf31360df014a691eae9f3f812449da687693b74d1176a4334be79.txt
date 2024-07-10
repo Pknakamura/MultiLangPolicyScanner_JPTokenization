@@ -1,0 +1,49 @@
+Windows DNSの脆弱性情報が公開されました（CVE-2023-50387、CVE-2024-21342、CVE-2024-21377） DNS関連技術情報のトップへ戻る ---------------------------------------------------------------------
+■Windows DNSの脆弱性情報が公開されました（CVE-2023-50387、CVE-2024-21342、CVE-2024-21377）
+
+                                株式会社日本レジストリサービス（JPRS）
+                                            初版作成 2024/02/16（Fri）
+---------------------------------------------------------------------
+
+▼概要
+
+  2024年2月13日（米国時間）、Windows DNSにおいて、DNSSEC検証の際に過剰
+  なCPU負荷が誘発される脆弱性を含む、複数の脆弱性情報が公開されました。
+  併せて、当該脆弱性を修正したバージョンも公開されています。
+
+  詳細につきましては、以下の情報をご参照ください。
+
+▼参考リンク
+
+  MITRE: CVE-2023-50387 DNSSEC verification complexity can be
+  exploited to exhaust CPU resources and stall DNS resolvers
+  < https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2023-50387 >
+
+  MITRE: CVE-2023-50387 DNS RRSIGs and DNSKEYs validation can be
+  abused to remotely consume DNS server resources
+  < https://msrc.microsoft.com/update-guide/ja-JP/vulnerability/CVE-2023-50387 >
+
+  Windows DNS Client Denial of Service Vulnerability
+  < https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2024-21342 >
+
+  Windows DNS クライアントのサービス拒否の脆弱性
+  < https://msrc.microsoft.com/update-guide/ja-JP/vulnerability/CVE-2024-21342 >
+
+  Windows DNS Information Disclosure Vulnerability
+  < https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2024-21377 >
+
+  Windows DNS の情報漏えいの脆弱性
+  < https://msrc.microsoft.com/update-guide/ja-JP/vulnerability/CVE-2024-21377 >
+
+  CVE Record | CVE
+  < https://www.cve.org/CVERecord?id=CVE-2023-50387 >
+
+  CVE Record | CVE
+  < https://www.cve.org/CVERecord?id=CVE-2024-21342 >
+
+  CVE Record | CVE
+  < https://www.cve.org/CVERecord?id=CVE-2024-21377 >
+
+---------------------------------------------------------------------
+▼更新履歴
+  2024/02/16 11:00 初版作成 株式会社日本レジストリサービス　Copyright©2001-2024 Japan Registry Services Co., Ltd.

@@ -1,0 +1,34 @@
+PowerDNS Recursorの脆弱性情報が公開されました（CVE-2023-50387、CVE-2023-50868） DNS関連技術情報のトップへ戻る ---------------------------------------------------------------------
+■PowerDNS Recursorの脆弱性情報が公開されました（CVE-2023-50387、CVE-2023-50868）
+
+                                株式会社日本レジストリサービス（JPRS）
+                                            初版作成 2024/02/16（Fri）
+---------------------------------------------------------------------
+
+▼概要
+
+  2024年2月13日（中央ヨーロッパ時間）、フルリゾルバー（キャッシュDNSサー
+  バー）PowerDNS Recursorにおいて、DNSSEC検証の際に過剰なCPU負荷が誘発
+  される複数の脆弱性情報が公開されました。併せて、当該脆弱性を修正した
+  バージョンも公開されています。
+
+  詳細につきましては、以下の情報をご参照ください。
+
+▼参考リンク
+
+  PowerDNS Security Advisory 2024-01: crafted DNSSEC records in a zone
+  can lead to a denial of service in Recursor
+  < https://doc.powerdns.com/recursor/security-advisories/powerdns-advisory-2024-01.html >
+
+  PowerDNS Recursor Security Advisory 2024-01
+  < https://blog.powerdns.com/2024/02/13/powerdns-recursor-4-8-6-4-9-3-5-0-2-released >
+
+  CVE Record | CVE
+  < https://www.cve.org/CVERecord?id=CVE-2023-50387 >
+
+  CVE Record | CVE
+  < https://www.cve.org/CVERecord?id=CVE-2023-50868 >
+
+---------------------------------------------------------------------
+▼更新履歴
+  2024/02/16 11:00 初版作成 株式会社日本レジストリサービス　Copyright©2001-2024 Japan Registry Services Co., Ltd.

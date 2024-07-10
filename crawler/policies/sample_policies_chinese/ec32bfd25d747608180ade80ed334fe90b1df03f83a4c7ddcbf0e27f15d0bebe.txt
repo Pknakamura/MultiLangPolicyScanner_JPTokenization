@@ -1,0 +1,57 @@
+宝塔安全建议
+官网 http://www.HostCLi.com Telegram群: https://TG.HostCLi.COM
+
+宝塔站长群 https://TG.HostCLi.COM
+
+修改宝塔默认配置：
+修改默认SSH端口：修改方法请自行google搜索；
+
+登陆宝塔面板->安全  启用SSH  关闭；以免ssh root密码被暴力破解，禁止ssh登陆，只能宝塔登陆；
+
+登陆宝塔面板->面板设置->面板端口 修改默认端口；以免被批量扫描到宝塔端口、定向爆破；
+
+登陆宝塔面板->面板设置->安全入口 修改宝塔路径；
+
+登陆宝塔面板->面板设置->修改面板用户 和 面板密码;
+
+善用计划任务+自动备份：
+如：应用商店中搜索【谷歌云网盘】或其他网盘并安装、配置
+
+然后通过计划任务，分别创建两条定时备份：备份网站程序/目录、备份数据库 到谷歌网盘；
+
+
+示例：计划任务+备份网站到谷歌网盘
+删除登录日志：
+
+部分用户可能有这个需要；也可以配合跳板机登录服务器+跳板机的计划任务，更加安全；
+
+ CentOS7 系统清空删除系统日志的方法>> 将代码放到跳板机、宝塔计划任务内即可。
+
+以上为Centos清理ssh登录日志，其他系统请自行搜索命令；
+
+复制
+cat /dev/null > /var/log/boot.log
+cat /dev/null > /var/log/btmp
+cat /dev/null > /var/log/cron
+cat /dev/null > /var/log/dmesg
+cat /dev/null > /var/log/firewalld
+cat /dev/null > /var/log/grubby
+cat /dev/null > /var/log/lastlog
+cat /dev/null > /var/log/mail.info
+cat /dev/null > /var/log/maillog
+cat /dev/null > /var/log/messages
+cat /dev/null > /var/log/secure
+cat /dev/null > /var/log/spooler
+cat /dev/null > /var/log/syslog
+cat /dev/null > /var/log/tallylog
+cat /dev/null > /var/log/wpa_supplicant.log
+cat /dev/null > /var/log/wtmp
+cat /dev/null > /var/log/yum.log
+其他建议：
+禁止数据库等端口的外网访问；
+
+尽量不要使用非官方提供、第三方破解的建站程序，大多数服务器被黑主要是因为程序有后门，跟宝塔没有直接、间接的关系；
+
+宝塔站长群 https://TG.HostCLi.COM
+
+End.
