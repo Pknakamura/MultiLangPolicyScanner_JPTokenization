@@ -1,0 +1,37 @@
+隐私权保护政策的适用范围
+隐私权保护政策适用于使用FC2服务的所有使用者。 FC2将基于隐私权保护政策，严加管理和保护使用者提交的个人信息。
+隐私权保护政策不适用于未使用FC2服务的人，及与FC2各服务无关的人或企业组织等。
+信息的收集与利用
+使用者向FC2提交的个人信息，是使用FC2服务所需的最低限度的必要信息。
+通过使用者浏览器或应用程序自动接收的使用者IP、Cookies、浏览页面、电脑的使用环境和客户端信息等，FC2将记录于服务器中。
+FC2要求使用者提供个人信息的目的如下：
+为了改善FC2服务质量。
+为了向使用者提供FC2的最新信息以及各项通知。
+为了在必要时与使用者取得联系。
+为了向使用者提供更加舒适的使用环境。
+信息的公开
+FC2不会向任何人出售或出借使用者个人信息。
+在以下的情况下，FC2会向政府机关、其他人士或公司提供使用者个人信息。
+受司法机关，警察机关或其他有权机关基于法定程序之要求时。
+当生命财产受到威胁、或者被认为有紧急必要时。
+公开或者与他人共用个人信息，才能提供给使用者所需的服务时。
+只有向FC2委托的公司公开个人信息，才能提供给使用者所需的服务时。 (这些公司均无权使用我们提供的个人信息，作提供产品或服务以外的其他用途)
+当使用者违反了FC2的使用条款，或者为了保护FC2的权利、财产、服务等情况下。
+有关安全性
+为了保障使用者的隐私及安全，帐号将会用密码保护。
+FC2在必要的情况下，会使用通行标准的SSL保全系统，保障资料传送的安全。
+Deletion of Information
+When you cancel your FC2ID, the registered information will be automatically deleted after a set period of time.
+Third party connection information of Facebook will be deleted once the connection with the third party is eliminated.
+第三方服务的使用
+FC2提供的服务中有部分服务使用YouTube API。
+另外，FC2会利用Google Analytics以确认用户的使用状况。
+在使用本服务时，将视为您已同意YouTube的使用条款、Google的隐私权政策、
+以及FC2使用条款。
+关于各项条款及政策请参照以下。
+Google隐私权政策: https://policies.google.com/privacy?hl=en
+YouTube使用条款: https://www.youtube.com/t/terms
+FC2使用条款: https://help.fc2.com/common/tos/cn
+有关隐私权保护政策的修订
+今后，FC2将不时的修改隐私权保护政策的部分或全部内容。
+（进行重大修改时，将会在FC2网页上发布公告，通知相关事项。）

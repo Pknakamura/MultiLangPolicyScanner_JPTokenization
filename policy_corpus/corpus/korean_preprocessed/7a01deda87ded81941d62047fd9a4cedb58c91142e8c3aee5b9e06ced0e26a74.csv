@@ -1,0 +1,518 @@
+surface,normalized,dictionary,pos
+AA,AA,AA,Alpha
+ISSUE,ISSUE,ISSUE,Alpha
+home,home,home,Alpha
+issue,issue,issue,Alpha
+beta,beta,beta,Alpha
+mirror,mirror,mirror,Alpha
+deal,deal,deal,Alpha
+beta,beta,beta,Alpha
+차후,차후,차후,Noun
+추가,추가,추가,Noun
+옵션,옵션,옵션,Noun
+추가,추가,추가,Noun
+예정,예정,예정,Noun
+입니다,입니다,이다,Adjective
+.,.,.,Punctuation
+유머,유머,유머,Noun
+",",",",",",Punctuation
+후방,후방,후방,Noun
+",",",",",",Punctuation
+유익한,유익한,유익하다,Adjective
+정보,정보,정보,Noun
+기능,기능,기능,Noun
+정상,정상,정상,Noun
+적,적,적,Suffix
+동작,동작,동작,Noun
+하지,하지,하다,Verb
+않을시,않을시,않다,Verb
+문의,문의,문의,Noun
+바랍니다,바랍니다,바라다,Verb
+ㅠㅠ,ㅠㅠ,ㅠㅠ,KoreanParticle
+정치,정치,정치,Noun
+ISSUE,ISSUE,ISSUE,Alpha
+LIST,LIST,LIST,Alpha
+여러,여러,여러,Noun
+사이트,사이트,사이트,Noun
+핫이슈,핫이슈,핫이슈,Noun
+모아,모아,모으다,Verb
+최적화,최적화,최적화,Noun
+하여,하여,하다,Verb
+보여줍니다,보여줍니다,보여주다,Verb
+.,.,.,Punctuation
+게시판,게시판,게시판,Noun
+사용,사용,사용,Noun
+안내,안내,안내,Noun
+마지막,마지막,마지막,Noun
+수,수,수,Modifier
+정일,정일,정일,Noun
+2023/05,2023/05,2023/05,Number
+24,24,24,Number
+pm,pm,pm,Alpha
+12,12,12,Number
+무능하고,무능하고,무능하다,Adjective
+돈,돈,돈,Noun
+없는,없는,없다,Adjective
+남성,남성,남성,Noun
+갖는,갖는,갖다,Verb
+취미,취미,취미,Noun
+ㄷ,ㄷ,ㄷ,KoreanParticle
+JPG,JPG,JPG,Alpha
+0.1,0.1,0.1,Number
+MB,MB,MB,Alpha
+147,147,147,Number
+5,5,5,Number
+0,0,0,Number
+1분,1분,1분,Number
+전,전,전,Foreign
+딸피,딸피,딸피,Noun
+인데,인데,인데,Josa
+MZ,MZ,MZ,Alpha
+응원,응원,응원,Noun
+함,함,함,Noun
+0.1,0.1,0.1,Number
+MB,MB,MB,Alpha
+647,647,647,Number
+5,5,5,Number
+2,2,2,Number
+8분,8분,8분,Number
+전,전,전,Foreign
+베르세르크,베르세르크,베르세르크,Noun
+42,42,42,Number
+권,권,권,Noun
+마지막,마지막,마지막,Noun
+실린,실린,실리다,Verb
+글,글,글,Noun
+.,.,.,Punctuation
+0.3,0.3,0.3,Number
+MB,MB,MB,Alpha
+930,930,930,Number
+5,5,5,Number
+1,1,1,Number
+9분,9분,9분,Number
+전,전,전,Foreign
+고속도로,고속도로,고속도로,Noun
+휴게소,휴게소,휴게소,Noun
+태워,태워,태우다,Verb
+달라,달라,달라,Noun
+는,는,는,Josa
+여성,여성,여성,Noun
+1.9,1.9,1.9,Number
+MB,MB,MB,Alpha
+756,756,756,Number
+37,37,37,Number
+0,0,0,Number
+11분,11분,11분,Number
+전,전,전,Foreign
+부산,부산,부산,Noun
+유명한,유명한,유명하다,Adjective
+식당,식당,식당,Noun
+곰탕,곰탕,곰탕,Noun
+구더기,구더기,구더기,Noun
+나와,나와,나오다,Verb
+0.3,0.3,0.3,Number
+MB,MB,MB,Alpha
+2149,2149,2149,Number
+5,5,5,Number
+1,1,1,Number
+27분,27분,27분,Number
+전,전,전,Foreign
+40,40,40,Number
+대,대,대다,Verb
+부장,부장,부장,Noun
+한테,한테,한테,Josa
+꽃,꽃,꽃,Noun
+선물,선물,선물,Noun
+받은,받은,받다,Verb
+20,20,20,Number
+대,대,대다,Verb
+사원,사원,사원,Noun
+1.2,1.2,1.2,Number
+MB,MB,MB,Alpha
+2021,2021,2021,Number
+5,5,5,Number
+1,1,1,Number
+30분,30분,30분,Number
+전,전,전,Foreign
+6.25,6.25,6.25,Number
+전쟁,전쟁,전쟁,Noun
+일화,일화,일화,Noun
+중,중,중,Suffix
+잘못,잘못,잘못,Noun
+알려진,알려진,알려지다,Verb
+일화,일화,일화,Noun
+.,.,.,Punctuation
+jpg,jpg,jpg,Alpha
+0.4,0.4,0.4,Number
+MB,MB,MB,Alpha
+1612,1612,1612,Number
+7,7,7,Number
+3,3,3,Number
+30분,30분,30분,Number
+전,전,전,Foreign
+🐌,🐌,🐌,Foreign
+우산,우산,우산,Noun
+도난,도난,도난,Noun
+방지,방지,방지,Noun
+아이디어,아이디어,아이디어,Noun
+상품,상품,상품,Noun
+.,.,.,Punctuation
+jpg,jpg,jpg,Alpha
+0.2,0.2,0.2,Number
+MB,MB,MB,Alpha
+1886,1886,1886,Number
+6,6,6,Number
+0,0,0,Number
+32분,32분,32분,Number
+전,전,전,Foreign
+배그,배그,배그,Noun
+뉴진스,뉴진스,뉴진스,Noun
+스킨,스킨,스킨,Noun
+착용,착용,착용,Noun
+불가,불가,불가,Noun
+의상,의상,의상,Noun
+발표,발표,발표,Noun
+웃기,웃기,웃기,Noun
+0.3,0.3,0.3,Number
+MB,MB,MB,Alpha
+1802,1802,1802,Number
+5,5,5,Number
+0,0,0,Number
+32분,32분,32분,Number
+전,전,전,Foreign
+동탄,동탄,동탄,Noun
+사건,사건,사건,Noun
+본,본,보다,Verb
+200만,200만,200만,Number
+유튜버,유튜버,유튜버,Noun
+소신,소신,소신,Noun
+발언,발언,발언,Noun
+0.4,0.4,0.4,Number
+MB,MB,MB,Alpha
+2469,2469,2469,Number
+6,6,6,Number
+1,1,1,Number
+38분,38분,38분,Number
+전,전,전,Foreign
+2024,2024,2024,Number
+장마,장마,장마,Noun
+기간,기간,기간,Noun
+0.1,0.1,0.1,Number
+MB,MB,MB,Alpha
+1789,1789,1789,Number
+6,6,6,Number
+4,4,4,Number
+38분,38분,38분,Number
+전,전,전,Foreign
+월드컵,월드컵,월드컵,Noun
+AFC,AFC,AFC,Alpha
+한국,한국,한국,Noun
+",",",",",",Punctuation
+역대,역대,역대,Noun
+급,급,급,Suffix
+꿀,꿀,꿀,Noun
+조,조,조,Suffix
+들어갔네요,들어갔네요,들어가다,Verb
+0.1,0.1,0.1,Number
+MB,MB,MB,Alpha
+1349,1349,1349,Number
+5,5,5,Number
+1,1,1,Number
+42분,42분,42분,Number
+전,전,전,Foreign
+친,친,친,Noun
+여자,여자,여자,Noun
+보이는,보이는,보이다,Verb
+순간,순간,순간,Noun
+2.0,2.0,2.0,Number
+MB,MB,MB,Alpha
+3266,3266,3266,Number
+5,5,5,Number
+22,22,22,Number
+47분,47분,47분,Number
+전,전,전,Foreign
+소액,소액,소액,Noun
+절도,절도,절도,Noun
+는,는,는,Josa
+처벌,처벌,처벌,Noun
+대상,대상,대상,Noun
+아니다,아니다,아니다,Adjective
+.,.,.,Punctuation
+jpg,jpg,jpg,Alpha
+0.2,0.2,0.2,Number
+MB,MB,MB,Alpha
+2679,2679,2679,Number
+9,9,9,Number
+1,1,1,Number
+50분,50분,50분,Number
+전,전,전,Foreign
+나중,나중,나중,Noun
+해야지,해야지,하다,Verb
+스팀,스팀,스팀,Noun
+유저,유저,유저,Noun
+구매,구매,구매,Noun
+하고,하고,하고,Josa
+방치,방치,방치,Noun
+한,한,한,Josa
+게임,게임,게임,Noun
+최소,최소,최소,Noun
+26조원,26조원,26조원,Number
+추정,추정,추정,Noun
+0.1,0.1,0.1,Number
+MB,MB,MB,Alpha
+1763,1763,1763,Number
+5,5,5,Number
+3,3,3,Number
+50분,50분,50분,Number
+전,전,전,Foreign
+가난,가난,가난,Noun
+진짜,진짜,진짜,Noun
+무서운,무서운,무섭다,Adjective
+이유,이유,이유,Noun
+.,.,.,Punctuation
+JPG,JPG,JPG,Alpha
+0.1,0.1,0.1,Number
+MB,MB,MB,Alpha
+2372,2372,2372,Number
+6,6,6,Number
+1,1,1,Number
+51분,51분,51분,Number
+전,전,전,Foreign
+개,개,개,Noun
+잃어버려서,잃어버려서,잃어버리다,Verb
+큰일,큰일,큰일,Noun
+났었던,났었던,나다,Verb
+쿠팡,쿠팡,쿠팡,Noun
+맨,맨,맨,Noun
+단,단,단,Modifier
+톡방,톡방,톡방,Noun
+0.5,0.5,0.5,Number
+MB,MB,MB,Alpha
+21116,21116,21116,Number
+43,43,43,Number
+11,11,11,Number
+51분,51분,51분,Number
+전,전,전,Foreign
+톰,톰,톰,Noun
+크루즈,크루즈,크루즈,Noun
+최근,최근,최근,Noun
+비쥬,비쥬,비쥬,Noun
+얼,얼,얼,Noun
+0.2,0.2,0.2,Number
+MB,MB,MB,Alpha
+2486,2486,2486,Number
+6,6,6,Number
+1,1,1,Number
+52분,52분,52분,Number
+전,전,전,Foreign
+아이유,아이유,아이유,Noun
+in,in,in,Alpha
+베를린,베를린,베를린,Noun
+인스타,인스타,인스타,Noun
+사진,사진,사진,Noun
+1.6,1.6,1.6,Number
+MB,MB,MB,Alpha
+2192,2192,2192,Number
+6,6,6,Number
+0,0,0,Number
+52분,52분,52분,Number
+전,전,전,Foreign
+2024,2024,2024,Number
+워터,워터,워터,Noun
+밤,밤,밤,Noun
+서울,서울,서울,Noun
+라인업,라인업,라인업,Noun
+0.2,0.2,0.2,Number
+MB,MB,MB,Alpha
+7093,7093,7093,Number
+16,16,16,Number
+3,3,3,Number
+53분,53분,53분,Number
+전,전,전,Foreign
+이승우,이승우,이승우,Noun
+선수,선수,선수,Noun
+소원,소원,소원,Noun
+.,.,.,Punctuation
+jpg,jpg,jpg,Alpha
+2.2,2.2,2.2,Number
+MB,MB,MB,Alpha
+ytb,ytb,ytb,Alpha
+3403,3403,3403,Number
+6,6,6,Number
+4,4,4,Number
+1시간,1시간,1시간,Number
+전,전,전,Foreign
+소름,소름,소름,Noun
+갑자기,갑자기,갑자기,Noun
+모르는,모르는,모르다,Verb
+병원,병원,병원,Noun
+문자,문자,문자,Noun
+옴,옴,옴,Noun
+.,.,.,Punctuation
+jpg,jpg,jpg,Alpha
+0.6,0.6,0.6,Number
+MB,MB,MB,Alpha
+45105,45105,45105,Number
+103,103,103,Number
+36,36,36,Number
+1시간,1시간,1시간,Number
+전,전,전,Foreign
+할리우드,할리우드,할리우드,Noun
+액션,액션,액션,Noun
+",",",",",",Punctuation
+퇴직,퇴직,퇴직,Noun
+경찰,경찰,경찰,Noun
+누명,누명,누명,Noun
+씌운,씌운,씌우다,Verb
+경찰,경찰,경찰,Noun
+0.7,0.7,0.7,Number
+MB,MB,MB,Alpha
+3652,3652,3652,Number
+8,8,8,Number
+8,8,8,Number
+1시간,1시간,1시간,Number
+전,전,전,Foreign
+취사,취사,취사,Noun
+병,병,병,Noun
+훈련,훈련,훈련,Noun
+힘든,힘든,힘드다,Adjective
+이유,이유,이유,Noun
+jpg,jpg,jpg,Alpha
+0.1,0.1,0.1,Number
+MB,MB,MB,Alpha
+7306,7306,7306,Number
+54,54,54,Number
+6,6,6,Number
+1시간,1시간,1시간,Number
+전,전,전,Foreign
+우,우,우,Adverb
+하라,하라,하라,Noun
+짱,짱,짱,Suffix
+남자친구,남자친구,남자친구,Noun
+모집,모집,모집,Noun
+한다,한다,하다,Verb
+한국인,한국인,한국인,Noun
+이여,이여,이여,Josa
+야한다,야한다,야하다,Adjective
+0.2,0.2,0.2,Number
+MB,MB,MB,Alpha
+4793,4793,4793,Number
+8,8,8,Number
+3,3,3,Number
+1시간,1시간,1시간,Number
+전,전,전,Foreign
+동탄,동탄,동탄,Noun
+당사자,당사자,당사자,Noun
+남고,남고,남고,Noun
+사건,사건,사건,Noun
+반장,반장,반장,Noun
+인터뷰,인터뷰,인터뷰,Noun
+했다하네,했다하네,하다,Verb
+.,.,.,Punctuation
+dc,dc,dc,Alpha
+0.2,0.2,0.2,Number
+MB,MB,MB,Alpha
+2618,2618,2618,Number
+7,7,7,Number
+3,3,3,Number
+1시간,1시간,1시간,Number
+전,전,전,Foreign
+뭔가,뭔가,뭔가,Noun
+익숙한,익숙한,익숙하다,Adjective
+안야,안야,안야,Noun
+테일러,테일러,테일러,Noun
+조이,조이,조이,Noun
+핸드폰,핸드폰,핸드폰,Noun
+케이스,케이스,케이스,Noun
+0.6,0.6,0.6,Number
+MB,MB,MB,Alpha
+7620,7620,7620,Number
+16,16,16,Number
+4,4,4,Number
+1시간,1시간,1시간,Number
+전,전,전,Foreign
+에스,에스,에스,Noun
+파,파,파,Noun
+1.1,1.1,1.1,Number
+MB,MB,MB,Alpha
+3143,3143,3143,Number
+6,6,6,Number
+4,4,4,Number
+1시간,1시간,1시간,Number
+전,전,전,Foreign
+블라인드,블라인드,블라인드,Noun
+경찰,경찰,경찰,Noun
+새끼,새끼,새끼,Noun
+는,는,는,Josa
+뭐임,뭐임,뭐임,Noun
+ㅋㅋㅋㅋㅋ,ㅋㅋㅋ,ㅋㅋㅋ,KoreanParticle
+0.1,0.1,0.1,Number
+MB,MB,MB,Alpha
+2877,2877,2877,Number
+5,5,5,Number
+4,4,4,Number
+1시간,1시간,1시간,Number
+전,전,전,Foreign
+요즘,요즘,요즘,Noun
+중국,중국,중국,Noun
+한국,한국,한국,Noun
+까는,까는,깔다,Verb
+주제,주제,주제,Noun
+스압,스압,스압,Noun
+11.6,11.6,11.6,Number
+MB,MB,MB,Alpha
+2811,2811,2811,Number
+6,6,6,Number
+3,3,3,Number
+1시간,1시간,1시간,Number
+전,전,전,Foreign
+1,1,1,Number
+2,2,2,Number
+3,3,3,Number
+4,4,4,Number
+5,5,5,Number
+6,6,6,Number
+7,7,7,Number
+Search,Search,Search,Alpha
+Mirror,Mirror,Mirror,Alpha
+cloud,cloud,cloud,Alpha
+Copyright,Copyright,Copyright,Alpha
+2011-2024,2011-2024,2011-2024,Number
+aagag.com,aagag.com,aagag.com,URL
+All,All,All,Alpha
+Right,Right,Right,Alpha
+Reserved,Reserved,Reserved,Alpha
+.,.,.,Punctuation
+게시,게시,게시,Noun
+글,글,글,Noun
+삭제요청,삭제요청,삭제요청,Noun
+E,E,E,Alpha
+mail,mail,mail,Alpha
+or,or,or,Alpha
+Request,Request,Request,Alpha
+or,or,or,Alpha
+Kakao,Kakao,Kakao,Alpha
+Request,Request,Request,Alpha
+to,to,to,Alpha
+delete,delete,delete,Alpha
+posts,posts,posts,Alpha
+email,email,email,Alpha
+E,E,E,Alpha
+mail,mail,mail,Alpha
+or,or,or,Alpha
+Request,Request,Request,Alpha
+사이드바,사이드바,사이드바,Noun
+옵션,옵션,옵션,Noun
+Remove,Remove,Remove,Alpha
+sidebar,sidebar,sidebar,Alpha
+왼쪽,왼쪽,왼쪽,Noun
+오른쪽,오른쪽,오른쪽,Noun
+끄기,끄기,끄다,Verb
+사이트,사이트,사이트,Noun
+테마,테마,테마,Noun
+변경,변경,변경,Noun
+Change,Change,Change,Alpha
+site,site,site,Alpha
+theme,theme,theme,Alpha
+black,black,black,Alpha
+white,white,white,Alpha

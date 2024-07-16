@@ -1,0 +1,259 @@
+surface,normalized,dictionary,POS
+Cookies,cookies,Cookies,eng
+ , , ,x
+Policy,policy,Policy,eng
+ , , ,x
+隐私权,隐私权,隐私权,n
+政策,政策,政策,n
+ , , ,x
+COOKIE,cookie,COOKIE,eng
+ , , ,x
+网站,网站,网站,n
+(,(,(,x
+www,www,www,eng
+.69,.69,.69,m
+shuba,shuba,shuba,eng
+.,.,.,m
+pro,pro,pro,eng
+),),),x
+Cookie,cookie,Cookie,eng
+区分,区分,区分,n
+网站,网站,网站,n
+使用者,使用者,使用者,n
+储存,储存,储存,n
+个人身份,个人身份,个人身份,n
+资讯,资讯,资讯,n
+提供,提供,提供,v
+网站,网站,网站,n
+浏览,浏览,浏览,v
+体验,体验,体验,n
+还,还,还,d
+网站,网站,网站,n
+改善,改善,改善,v
+ , , ,x
+SSL,ssl,SSL,eng
+ , , ,x
+TLS,tls,TLS,eng
+ , , ,x
+加密,加密,加密,ns
+ , , ,x
+出于,出于,出于,v
+原因,原因,原因,n
+保护,保护,保护,v
+机密,机密,机密,n
+内容,内容,内容,n
+传输,传输,传输,vn
+网站,网站,网站,n
+运营,运营,运营,vn
+方,方,方,q
+传送,传送,传送,v
+查询,查询,查询,v
+网站,网站,网站,n
+SSL,ssl,SSL,eng
+ , , ,x
+TLS,tls,TLS,eng
+ , , ,x
+加密,加密,加密,ns
+特征,特征,特征,n
+识别,识别,识别,v
+加密,加密,加密,ns
+连线,连线,连线,n
+访问,访问,访问,v
+加密,加密,加密,ns
+连线,连线,连线,n
+时,时,时,n
+浏览器,浏览器,浏览器,n
+位址,位址,位址,n
+列,列,列,v
+字首,字首,字首,n
+会,会,会,v
+http,http,http,eng
+:,:,:,x
+/,/,/,x
+/,/,/,x
+https,https,https,eng
+:,:,:,x
+/,/,/,x
+/,/,/,x
+浏览器,浏览器,浏览器,n
+位址,位址,位址,n
+列中会,列中会,列中会,nt
+显示,显示,显示,v
+小锁,小锁,小锁,nr
+图示,图示,图示,n
+ , , ,x
+启用,启用,启用,v
+SSL,ssl,SSL,eng
+ , , ,x
+TLS,tls,TLS,eng
+ , , ,x
+加密,加密,加密,ns
+传输,传输,传输,vn
+资料,资料,资料,n
+第三方,第三方,第三方,m
+读取,读取,读取,v
+ , , ,x
+伺服器,伺服器,伺服器,nz
+日志,日志,日志,ns
+档案,档案,档案,n
+ , , ,x
+网站,网站,网站,n
+提供,提供,提供,v
+方会,方会,方会,n
+自动,自动,自动,vn
+收集,收集,收集,v
+浏览器,浏览器,浏览器,n
+自动,自动,自动,vn
+传输,传输,传输,vn
+资讯,资讯,资讯,n
+储存,储存,储存,n
+伺服器,伺服器,伺服器,nz
+日志,日志,日志,ns
+档案,档案,档案,n
+中,中,中,f
+资讯,资讯,资讯,n
+包括,包括,包括,v
+ , , ,x
+浏览器,浏览器,浏览器,n
+型别,型别,型别,n
+浏览器,浏览器,浏览器,n
+版本,版本,版本,n
+ , , ,x
+作业系统,作业系统,作业系统,n
+ , , ,x
+访问,访问,访问,v
+来源,来源,来源,n
+网站,网站,网站,n
+ , , ,x
+访问,访问,访问,v
+计算机,计算机,计算机,n
+主机名,主机名,主机名,n
+ , , ,x
+伺服器,伺服器,伺服器,nz
+请求,请求,请求,v
+时间,时间,时间,n
+ , , ,x
+IP,ip,IP,eng
+ , , ,x
+地址,地址,地址,n
+ , , ,x
+资料,资料,资料,n
+来自,来自,来自,v
+来源,来源,来源,n
+资料,资料,资料,n
+合并,合并,合并,v
+ , , ,x
+Google,google,Google,eng
+ , , ,x
+Analytics,analytics,Analytics,eng
+ , , ,x
+网站,网站,网站,n
+Google,google,Google,eng
+ , , ,x
+Analytics,analytics,Analytics,eng
+一项,一项,一项,m
+网站,网站,网站,n
+分析,分析,分析,vn
+服务,服务,服务,vn
+服务,服务,服务,vn
+Google,google,Google,eng
+ , , ,x
+Inc,inc,Inc,eng
+.,.,.,m
+ , , ,x
+运营,运营,运营,vn
+公司地址,公司地址,公司地址,n
+1600,1600,1600,m
+ , , ,x
+Amphitheatre,amphitheatre,Amphitheatre,eng
+ , , ,x
+Parkway,parkway,Parkway,eng
+",",",",",",x
+ , , ,x
+Mountain,mountain,Mountain,eng
+ , , ,x
+View,view,View,eng
+",",",",",",x
+ , , ,x
+CA,ca,CA,eng
+ , , ,x
+94043,94043,94043,m
+",",",",",",x
+ , , ,x
+USA,usa,USA,eng
+ , , ,x
+Google,google,Google,eng
+ , , ,x
+Analytics,analytics,Analytics,eng
+ , , ,x
+会,会,会,v
+CookieCookie,cookiecookie,CookieCookie,eng
+ , , ,x
+储存,储存,储存,n
+计算机,计算机,计算机,n
+上,上,上,f
+文字,文字,文字,n
+档案,档案,档案,n
+用于,用于,用于,v
+分析,分析,分析,vn
+网站,网站,网站,n
+情况,情况,情况,n
+Cookie,cookie,Cookie,eng
+ , , ,x
+生成,生成,生成,v
+网站,网站,网站,n
+资讯,资讯,资讯,n
+会,会,会,v
+传输,传输,传输,vn
+美国,美国,美国,ns
+Google,google,Google,eng
+ , , ,x
+伺服器,伺服器,伺服器,nz
+储存,储存,储存,n
+Google,google,Google,eng
+ , , ,x
+Analytics,analytics,Analytics,eng
+ , , ,x
+欧盟,欧盟,欧盟,j
+资料,资料,资料,n
+保护,保护,保护,v
+条例,条例,条例,n
+6,6,6,m
+ , , ,x
+(,(,(,x
+1,1,1,x
+),),),x
+(,(,(,x
+f,f,f,x
+),),),x
+ , , ,x
+条将,条将,条将,n
+Cookie,cookie,Cookie,eng
+ , , ,x
+储存,储存,储存,n
+计算机,计算机,计算机,n
+上,上,上,f
+网站,网站,网站,n
+运营,运营,运营,vn
+方,方,方,n
+拥有,拥有,拥有,v
+合法利益,合法利益,合法利益,n
+分析,分析,分析,vn
+使用者,使用者,使用者,n
+优化,优化,优化,vn
+网站,网站,网站,n
+广告投放,广告投放,广告投放,l
+活动,活动,活动,vn
+ , , ,x
+资料,资料,资料,n
+保护,保护,保护,v
+ , , ,x
+未经,未经,未经,d
+授权,授权,授权,v
+情况,情况,情况,n
+下向,下向,下向,v
+第三方,第三方,第三方,m
+组织,组织,组织,v
+机构,机构,机构,n
+分享,分享,分享,v
+资讯,资讯,资讯,n
